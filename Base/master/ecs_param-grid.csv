@@ -1,4 +1,0 @@
-grid.netcdf.file,1970_1990_2019_Ltl_ECS.nc
-grid.var.lat,ny
-grid.var.lon,nx
-grid.var.mask,SmallPhytoplankton
