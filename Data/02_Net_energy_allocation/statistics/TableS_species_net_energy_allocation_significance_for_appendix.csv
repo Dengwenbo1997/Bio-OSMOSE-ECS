@@ -1,0 +1,15 @@
+﻿Species,Functional group,SSP1-2.6 allocation shift (%),SSP1-2.6 95% CI (%),SSP1-2.6 t,SSP1-2.6 BH-adjusted P,SSP1-2.6 significance,SSP5-8.5 allocation shift (%),SSP5-8.5 95% CI (%),SSP5-8.5 t,SSP5-8.5 BH-adjusted P,SSP5-8.5 significance
+Engraulis japonicus,Prey,-17.73,-19.96 to -15.44,-14.18,3.92e-25,***,-24.67,-26.71 to -22.60,-20.11,2.30e-36,***
+Scomberomorus niphonius,Predator,-2.93,-3.22 to -2.64,-19.60,2.65e-35,***,-4.97,-5.24 to -4.71,-35.30,2.37e-57,***
+Trichiurus japonicus,Predator,-0.45,-2.62 to 1.86,-0.39,0.696,ns,-2.49,-4.36 to -0.60,-2.53,0.013,*
+Muraenesox cinereus,Predator,-19.77,-20.48 to -19.07,-48.45,1.28e-69,***,-28.18,-28.80 to -27.53,-71.19,1.07e-85,***
+Miichthys miiuy,Predator,-3.39,-5.29 to -1.49,-3.40,0.001,**,-18.67,-20.39 to -16.96,-18.93,2.28e-34,***
+Todarodes pacificus,Invertebrate,9.21,6.49 to 11.84,6.89,8.23e-10,***,10.16,7.48 to 12.82,7.75,8.77e-12,***
+Trachysalambria curvirostris,Invertebrate,-13.32,-18.67 to -7.56,-4.25,5.60e-05,***,-24.52,-29.47 to -18.82,-7.79,7.88e-12,***
+Portunus trituberculatus,Invertebrate,18.33,14.02 to 22.84,8.85,7.05e-14,***,22.83,18.36 to 27.57,10.61,7.87e-18,***
+Scomber japonicus,Mid-trophic species,-6.03,-7.92 to -4.21,-6.22,1.49e-08,***,-13.28,-15.08 to -11.39,-13.13,3.56e-23,***
+Decapterus maruadsi,Mid-trophic species,-10.32,-10.90 to -9.77,-33.34,8.83e-55,***,-15.91,-16.45 to -15.39,-52.45,3.34e-73,***
+Pennahia argentata,Mid-trophic species,-17.82,-19.20 to -16.45,-23.01,7.58e-41,***,-33.82,-34.99 to -32.59,-45.05,4.22e-67,***
+Pampus argenteus,Mid-trophic species,-39.23,-47.87 to -29.52,-6.54,3.80e-09,***,-43.83,-51.62 to -35.36,-7.95,3.93e-12,***
+Larimichthys polyactis,Mid-trophic species,-7.93,-9.75 to -6.17,-8.40,5.87e-13,***,-21.07,-22.62 to -19.55,-23.66,4.41e-42,***
+Trachurus japonicus,Mid-trophic species,-4.73,-5.64 to -3.83,-9.96,3.10e-16,***,-5.38,-6.38 to -4.37,-10.32,3.12e-17,***

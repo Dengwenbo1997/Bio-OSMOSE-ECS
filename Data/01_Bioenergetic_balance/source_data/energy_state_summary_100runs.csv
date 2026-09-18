@@ -1,0 +1,169 @@
+scenario,species,latin,group,species_order,mean,lo,hi,n_runs,metric,metric_label
+Base,EngraulisJaponicus,Engraulis japonicus,Prey,1,26.6968819439333,25.4770702908334,28.0240434140278,100,ingestion_age_standardized,ingestion
+SSP1-2.6,EngraulisJaponicus,Engraulis japonicus,Prey,1,28.1433367296461,27.4075302414095,28.9870175566872,100,ingestion_age_standardized,ingestion
+SSP5-8.5,EngraulisJaponicus,Engraulis japonicus,Prey,1,29.1159265170206,28.2308347811729,30.0562966115123,100,ingestion_age_standardized,ingestion
+Base,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,103.036784039,102.726555353333,103.26088441875,100,ingestion_age_standardized,ingestion
+SSP1-2.6,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,102.192103045309,102.016350596605,102.376965291204,100,ingestion_age_standardized,ingestion
+SSP5-8.5,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,101.671001138457,101.524137209722,101.815159131636,100,ingestion_age_standardized,ingestion
+Base,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,5.03946614546667,4.94734202295238,5.12339855054762,100,ingestion_age_standardized,ingestion
+SSP1-2.6,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,5.07943306491599,5.01197690493342,5.1270599149515,100,ingestion_age_standardized,ingestion
+SSP5-8.5,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,5.0951866161042,5.04722979918871,5.14191308491622,100,ingestion_age_standardized,ingestion
+Base,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,57.6218989242,57.261347994,57.9577462281667,100,ingestion_age_standardized,ingestion
+SSP1-2.6,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,56.5890948110124,56.3955348980864,56.7714589638272,100,ingestion_age_standardized,ingestion
+SSP5-8.5,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,56.3653458586173,56.1866151603087,56.5532829017901,100,ingestion_age_standardized,ingestion
+Base,MiichthysMiiuy,Miichthys miiuy,Predator,5,103.506092044833,100.118882664583,107.077189667917,100,ingestion_age_standardized,ingestion
+SSP1-2.6,MiichthysMiiuy,Miichthys miiuy,Predator,5,103.505976722037,101.050630888271,105.52717239213,100,ingestion_age_standardized,ingestion
+SSP5-8.5,MiichthysMiiuy,Miichthys miiuy,Predator,5,101.275444182839,99.061907892284,103.419105673457,100,ingestion_age_standardized,ingestion
+Base,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,15.9320780007333,12.6466327458333,22.4305817098333,100,ingestion_age_standardized,ingestion
+SSP1-2.6,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,13.2933754993333,12.208257329784,15.2729569348457,100,ingestion_age_standardized,ingestion
+SSP5-8.5,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,13.2151423171235,11.7962346361111,15.2683959177469,100,ingestion_age_standardized,ingestion
+Base,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,27.7193333770333,22.3743416175417,32.961315602,100,ingestion_age_standardized,ingestion
+SSP1-2.6,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,26.8069651089525,24.2764563816049,29.0296182060186,100,ingestion_age_standardized,ingestion
+SSP5-8.5,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,26.8315812009286,24.2574127045216,29.9643796203025,100,ingestion_age_standardized,ingestion
+Base,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,8.0392051234,6.88746084625,9.53872519725,100,ingestion_age_standardized,ingestion
+SSP1-2.6,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,6.21737476046914,5.56926391320988,6.77888210753086,100,ingestion_age_standardized,ingestion
+SSP5-8.5,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,6.37573500661729,5.63457684089506,7.08909800817902,100,ingestion_age_standardized,ingestion
+Base,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,7.16168190131167,7.05456636016667,7.26216909678333,100,ingestion_age_standardized,ingestion
+SSP1-2.6,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,7.38982825432058,7.32972492959259,7.46876442716049,100,ingestion_age_standardized,ingestion
+SSP5-8.5,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,7.55103387204589,7.47707262622686,7.64187702707356,100,ingestion_age_standardized,ingestion
+Base,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,38.9175842186667,38.4316520702778,39.4405179438889,100,ingestion_age_standardized,ingestion
+SSP1-2.6,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,38.7924874005144,38.3481019778807,39.1967039840535,100,ingestion_age_standardized,ingestion
+SSP5-8.5,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,38.6243569845679,38.2461949717078,38.9706906696502,100,ingestion_age_standardized,ingestion
+Base,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,35.1979711314127,34.704056534881,35.5953344971429,100,ingestion_age_standardized,ingestion
+SSP1-2.6,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,34.5506304017019,34.2289780584435,34.8733812509921,100,ingestion_age_standardized,ingestion
+SSP5-8.5,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,34.1047488972693,33.8009533800779,34.4011173132863,100,ingestion_age_standardized,ingestion
+Base,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,104.721224402944,101.876938015139,106.937303495555,100,ingestion_age_standardized,ingestion
+SSP1-2.6,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,103.636616769012,102.34476647001,105.414770570731,100,ingestion_age_standardized,ingestion
+SSP5-8.5,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,103.643612085967,101.990795585494,105.135673625823,100,ingestion_age_standardized,ingestion
+Base,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,39.3414342276,38.6744258748333,39.977251603625,100,ingestion_age_standardized,ingestion
+SSP1-2.6,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,38.5570525487,38.2533044930247,38.8600476158951,100,ingestion_age_standardized,ingestion
+SSP5-8.5,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,38.3149743353685,38.0308507139043,38.5870729243055,100,ingestion_age_standardized,ingestion
+Base,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,116.581921099333,113.577840747917,122.471143162083,100,ingestion_age_standardized,ingestion
+SSP1-2.6,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,120.738871590679,116.93714798966,125.388751544908,100,ingestion_age_standardized,ingestion
+SSP5-8.5,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,122.266425060802,117.761086662037,129.323806910494,100,ingestion_age_standardized,ingestion
+Base,EngraulisJaponicus,Engraulis japonicus,Prey,1,1.17127525635444,1.11442103763611,1.23675779103333,100,maintenance_age_standardized,maintenance
+SSP1-2.6,EngraulisJaponicus,Engraulis japonicus,Prey,1,1.49383391733934,1.44250582013581,1.5548102890072,100,maintenance_age_standardized,maintenance
+SSP5-8.5,EngraulisJaponicus,Engraulis japonicus,Prey,1,1.83553684413045,1.74427996698765,1.9093527240679,100,maintenance_age_standardized,maintenance
+Base,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,1.06697425099333,1.03822378202083,1.10301234227917,100,maintenance_age_standardized,maintenance
+SSP1-2.6,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,1.19027660174938,1.17187714018827,1.21179097876698,100,maintenance_age_standardized,maintenance
+SSP5-8.5,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,1.41964173404136,1.39120920524228,1.44447367408951,100,maintenance_age_standardized,maintenance
+Base,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,0.682059486021191,0.644384462493452,0.73458025235881,100,maintenance_age_standardized,maintenance
+SSP1-2.6,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,0.865956163621975,0.824013420264551,0.900111813938272,100,maintenance_age_standardized,maintenance
+SSP5-8.5,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,0.952121321634644,0.91582413393448,0.994480310583848,100,maintenance_age_standardized,maintenance
+Base,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,0.0256333098057267,0.02450986874125,0.0271899033323333,100,maintenance_age_standardized,maintenance
+SSP1-2.6,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,0.0360274095862099,0.0347983194537037,0.0369306091062345,100,maintenance_age_standardized,maintenance
+SSP5-8.5,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,0.045118600314642,0.0437529943785494,0.0465343163211111,100,maintenance_age_standardized,maintenance
+Base,MiichthysMiiuy,Miichthys miiuy,Predator,5,0.37506727196,0.342535707658333,0.4172810068875,100,maintenance_age_standardized,maintenance
+SSP1-2.6,MiichthysMiiuy,Miichthys miiuy,Predator,5,0.603686220574074,0.565374769262346,0.639087648493827,100,maintenance_age_standardized,maintenance
+SSP5-8.5,MiichthysMiiuy,Miichthys miiuy,Predator,5,0.751206384027222,0.709476039610339,0.806018931703703,100,maintenance_age_standardized,maintenance
+Base,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,0.536807548260333,0.416842244855,0.7044654088,100,maintenance_age_standardized,maintenance
+SSP1-2.6,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,0.847722851344815,0.709325317185185,0.984247061621605,100,maintenance_age_standardized,maintenance
+SSP5-8.5,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,1.02467856656901,0.88784575396605,1.18874081989198,100,maintenance_age_standardized,maintenance
+Base,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,0.185021776878517,0.15420050974125,0.226054548058333,100,maintenance_age_standardized,maintenance
+SSP1-2.6,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,0.26598306047392,0.238297295252624,0.30109469811713,100,maintenance_age_standardized,maintenance
+SSP5-8.5,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,0.312143146551482,0.270313637021759,0.362599747245679,100,maintenance_age_standardized,maintenance
+Base,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.123453598446667,0.104293619160833,0.141925844266667,100,maintenance_age_standardized,maintenance
+SSP1-2.6,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.171889319535926,0.155073137365123,0.187558519326852,100,maintenance_age_standardized,maintenance
+SSP5-8.5,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.191207817647901,0.166643370160186,0.211522050974074,100,maintenance_age_standardized,maintenance
+Base,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,1.08057735234463,1.03457202992483,1.13272003099375,100,maintenance_age_standardized,maintenance
+SSP1-2.6,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,1.26690645408567,1.22176589957839,1.31423072476025,100,maintenance_age_standardized,maintenance
+SSP5-8.5,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,1.5691106090213,1.51525529257073,1.61379460597453,100,maintenance_age_standardized,maintenance
+Base,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,0.411889757907778,0.399565805322222,0.424928615819444,100,maintenance_age_standardized,maintenance
+SSP1-2.6,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,0.447550317021399,0.440240193123457,0.455282959587449,100,maintenance_age_standardized,maintenance
+SSP5-8.5,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,0.498553322264609,0.489721102889918,0.508272209080247,100,maintenance_age_standardized,maintenance
+Base,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,0.100717103857898,0.0958714833517857,0.105648416952361,100,maintenance_age_standardized,maintenance
+SSP1-2.6,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,0.12734239856587,0.123920914103483,0.130920136117813,100,maintenance_age_standardized,maintenance
+SSP5-8.5,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,0.147888039128812,0.143557202479232,0.152527642782363,100,maintenance_age_standardized,maintenance
+Base,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,0.122371665396622,0.114867728030278,0.130538084523333,100,maintenance_age_standardized,maintenance
+SSP1-2.6,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,0.149139518140124,0.142382348687911,0.155574634827932,100,maintenance_age_standardized,maintenance
+SSP5-8.5,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,0.17216930948963,0.166282681555453,0.178861588429167,100,maintenance_age_standardized,maintenance
+Base,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,0.201681993625633,0.1858298431135,0.219306077861917,100,maintenance_age_standardized,maintenance
+SSP1-2.6,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,0.248279185958494,0.237428593584105,0.259730855956358,100,maintenance_age_standardized,maintenance
+SSP5-8.5,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,0.290390962869957,0.276548182177408,0.305667031722777,100,maintenance_age_standardized,maintenance
+Base,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,0.539762318899833,0.502492527504167,0.574456915229167,100,maintenance_age_standardized,maintenance
+SSP1-2.6,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,0.597880984221914,0.576385326311729,0.623895789973766,100,maintenance_age_standardized,maintenance
+SSP5-8.5,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,0.709822217159568,0.674160185507716,0.746642669140432,100,maintenance_age_standardized,maintenance
+Base,EngraulisJaponicus,Engraulis japonicus,Prey,1,0.0439045850484223,0.0404421024583078,0.0476440156345247,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,EngraulisJaponicus,Engraulis japonicus,Prey,1,0.0530989078281196,0.0501527587246034,0.0565798856089054,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,EngraulisJaponicus,Engraulis japonicus,Prey,1,0.0630704320589536,0.0589479313867893,0.0666840705704368,100,mbi_age_standardized,metabolic_burden
+Base,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,0.0103553888698186,0.0100686615985583,0.0107037775848353,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,0.0116474720330728,0.0114569237390616,0.0118635298266014,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,0.0139631058208733,0.0136912193405452,0.0142112248539186,100,mbi_age_standardized,metabolic_burden
+Base,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,0.135359989518159,0.127715364300453,0.145432932189161,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,0.170487563664435,0.16236064522224,0.177386459198341,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,0.186875244007996,0.179801924256526,0.195012230231037,100,mbi_age_standardized,metabolic_burden
+Base,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,0.000444862116573729,0.000424304300209894,0.000471097375297339,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,0.000636652270845339,0.000614797982268184,0.000653660912450325,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,0.000800472517186087,0.000776036458786638,0.000826371667755414,100,mbi_age_standardized,metabolic_burden
+Base,MiichthysMiiuy,Miichthys miiuy,Predator,5,0.00362601448178349,0.0032580719367163,0.00410119940019903,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,MiichthysMiiuy,Miichthys miiuy,Predator,5,0.00583409291559319,0.00539946088750133,0.00624819710830028,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,MiichthysMiiuy,Miichthys miiuy,Predator,5,0.00741949238036692,0.00699069501832869,0.00800139239927666,100,mbi_age_standardized,metabolic_burden
+Base,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,0.0345600217705141,0.0198332858870238,0.0490831919674162,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,0.0639682618272616,0.051961134779302,0.0770242278649591,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,0.0780120645825889,0.0618471150186367,0.0973736499571802,100,mbi_age_standardized,metabolic_burden
+Base,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,0.00673052546330425,0.00519654662930592,0.00898879428107342,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,0.00995505819832879,0.00852434743383686,0.0118941266180289,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,0.0116813907329216,0.00956237638756311,0.0142522939729401,100,mbi_age_standardized,metabolic_burden
+Base,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.0155214136585581,0.011789389630877,0.0195045053004208,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.0277647977246516,0.0237689051095973,0.0329195109535832,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.0301161024070573,0.0258377162749969,0.035646865198846,100,mbi_age_standardized,metabolic_burden
+Base,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,0.150890128083817,0.143938858256664,0.15894754463668,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,0.171443042650704,0.165080064921123,0.177582768102868,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,0.207809651636599,0.200031526161691,0.214372025042215,100,mbi_age_standardized,metabolic_burden
+Base,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,0.010584295581737,0.0102693219977791,0.0109390508494504,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,0.0115374304903254,0.0112976025832614,0.0117947069480162,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,0.0129081488783641,0.0126471354951486,0.0131759266461614,100,mbi_age_standardized,metabolic_burden
+Base,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,0.00286173223174202,0.00271556200157467,0.0030210004924285,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,0.00368584531331351,0.0035700600047025,0.00380239462242664,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,0.00433649656633887,0.00421059967928569,0.00449600436570854,100,mbi_age_standardized,metabolic_burden
+Base,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,0.00116883890774017,0.00109226273277846,0.00125735898198214,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,0.00143916942285495,0.00137813701430913,0.0015058727557718,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,0.00166132891602031,0.00160388132100113,0.00173639134078596,100,mbi_age_standardized,metabolic_burden
+Base,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,0.00512729132555314,0.00469697368294389,0.00559980386093436,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,0.00643954976108294,0.00612856207569497,0.00676251496362058,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,0.00757938203256006,0.00721006809330077,0.00797898794597631,100,mbi_age_standardized,metabolic_burden
+Base,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,0.0046308565285015,0.0043140970219853,0.00492506525881674,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,0.00495327556762971,0.00470918924156284,0.00521714602105572,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,0.00580885234319785,0.00544654380674302,0.0061983965028709,100,mbi_age_standardized,metabolic_burden
+Base,EngraulisJaponicus,Engraulis japonicus,Prey,1,15.9213058616,15.0790107988611,16.6789041026111,100,enet_age_standardized,net_energy
+SSP1-2.6,EngraulisJaponicus,Engraulis japonicus,Prey,1,17.2030407130823,16.7396013948148,17.8413011369548,100,enet_age_standardized,net_energy
+SSP5-8.5,EngraulisJaponicus,Engraulis japonicus,Prey,1,17.948337029414,17.3554656654218,18.6387540901646,100,enet_age_standardized,net_energy
+Base,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,73.926260312,72.6085542566667,75.0489017445833,100,enet_age_standardized,net_energy
+SSP1-2.6,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,79.5010340423457,78.8916380527778,80.0527275103396,100,enet_age_standardized,net_energy
+SSP5-8.5,ScomberomorusNiphonius,Scomberomorus niphonius,Predator,2,82.7770482748766,82.2021927032407,83.3772975592593,100,enet_age_standardized,net_energy
+Base,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,1.46677575172857,1.38289374223333,1.57248604069012,100,enet_age_standardized,net_energy
+SSP1-2.6,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,1.51811159359548,1.45754632272988,1.58181394933805,100,enet_age_standardized,net_energy
+SSP5-8.5,TrichiurusJaponicus,Trichiurus japonicus,Predator,3,1.51305031381971,1.45069814038427,1.56831961540694,100,enet_age_standardized,net_energy
+Base,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,30.1141222383933,29.4095632096667,30.8811108638333,100,enet_age_standardized,net_energy
+SSP1-2.6,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,33.7749645244198,33.3892578919753,34.1748808782716,100,enet_age_standardized,net_energy
+SSP5-8.5,MuraenesoxCinereus,Muraenesox cinereus,Predator,4,35.0537935825556,34.6683502798765,35.4466691993827,100,enet_age_standardized,net_energy
+Base,MiichthysMiiuy,Miichthys miiuy,Predator,5,117.169643994167,108.95677561375,123.642365359167,100,enet_age_standardized,net_energy
+SSP1-2.6,MiichthysMiiuy,Miichthys miiuy,Predator,5,116.846857700926,112.264949574846,120.666666828395,100,enet_age_standardized,net_energy
+SSP5-8.5,MiichthysMiiuy,Miichthys miiuy,Predator,5,119.206851658272,115.5795440375,123.697874807562,100,enet_age_standardized,net_energy
+Base,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,3.29813320322467,2.82241117366667,3.72997333341667,100,enet_age_standardized,net_energy
+SSP1-2.6,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,3.40926798804568,3.13144290493519,3.69417049941389,100,enet_age_standardized,net_energy
+SSP5-8.5,TodarodesPacificus,Todarodes pacificus,Invertebrate,6,3.32029444886723,2.96730010660485,3.61673260372068,100,enet_age_standardized,net_energy
+Base,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,6.667007907178,5.37750362150167,8.028057391025,100,enet_age_standardized,net_energy
+SSP1-2.6,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,7.36581016759764,6.68081021562191,8.11856040914228,100,enet_age_standardized,net_energy
+SSP5-8.5,TrachysalambriaCurvirostris,Trachysalambria curvirostris,Invertebrate,7,7.59660019794296,6.87069359849229,8.41758637657099,100,enet_age_standardized,net_energy
+Base,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.604950458210967,0.530622564825,0.696543491358333,100,enet_age_standardized,net_energy
+SSP1-2.6,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.757926624726185,0.682101932725309,0.845713067466049,100,enet_age_standardized,net_energy
+SSP5-8.5,PortunusTrituberculatus,Portunus trituberculatus,Invertebrate,8,0.783617900668408,0.700305273694753,0.854010519919753,100,enet_age_standardized,net_energy
+Base,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,3.75879591325687,3.67233731141,3.84344893786667,100,enet_age_standardized,net_energy
+SSP1-2.6,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,3.9384183284398,3.87253064737809,4.01710899464815,100,enet_age_standardized,net_energy
+SSP5-8.5,ScomberJaponicus,Scomber japonicus,Mid-trophic species,9,3.83773746904106,3.76200096689789,3.91749086641332,100,enet_age_standardized,net_energy
+Base,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,36.048153984,35.2640611863889,36.8963653680556,100,enet_age_standardized,net_energy
+SSP1-2.6,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,38.6487000928807,38.2931324983539,39.0413300830247,100,enet_age_standardized,net_energy
+SSP5-8.5,DecapterusMaruadsi,Decapterus maruadsi,Mid-trophic species,10,39.9655278913045,39.4752780165638,40.3661413177984,100,enet_age_standardized,net_energy
+Base,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,34.0436831293877,32.8959231151429,35.3855887967857,100,enet_age_standardized,net_energy
+SSP1-2.6,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,37.1261882086242,36.3053685426658,37.8214936406878,100,enet_age_standardized,net_energy
+SSP5-8.5,PennahiaArgentata,Pennahia argentata,Mid-trophic species,11,39.5114513969918,38.5677207559524,40.2210192237654,100,enet_age_standardized,net_energy
+Base,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,81.4622238704243,76.0218921438778,85.6982888114445,100,enet_age_standardized,net_energy
+SSP1-2.6,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,89.8363315386452,86.4770497779424,92.6433478040216,100,enet_age_standardized,net_energy
+SSP5-8.5,PampusArgenteus,Pampus argenteus,Mid-trophic species,12,92.778414363139,90.111922905356,96.3505950305144,100,enet_age_standardized,net_energy
+Base,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,34.477223713496,32.4121888397683,36.5943326814583,100,enet_age_standardized,net_energy
+SSP1-2.6,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,38.1795761408148,36.9128666839876,39.3017188202006,100,enet_age_standardized,net_energy
+SSP5-8.5,LarimichthysPolyactis,Larimichthys polyactis,Mid-trophic species,13,40.1814316348351,39.1821619816729,41.4000697159845,100,enet_age_standardized,net_energy
+Base,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,80.08903643575,77.29593391625,84.6042114416667,100,enet_age_standardized,net_energy
+SSP1-2.6,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,86.1129358639506,83.0615854575617,90.099760466358,100,enet_age_standardized,net_energy
+SSP5-8.5,TrachurusJaponicus,Trachurus japonicus,Mid-trophic species,14,87.6250947552531,84.305482385679,92.6772026324074,100,enet_age_standardized,net_energy

@@ -1,0 +1,5 @@
+group,foreground_change,foreground_scenario,background_change,background_scenario,group_order,group_index,foreground_label,background_label,foreground_inside,background_inside,foreground_label_x,background_label_x,foreground_hjust,background_hjust
+Prey,8.05043796422298,SSP1-2.6,12.731563512657,SSP5-8.5,1,4,SSP1-2.6  +8.1%,SSP5-8.5  +12.7%,TRUE,TRUE,7.80043796422298,12.481563512657,1,1
+Predator,4.02563961425617,SSP1-2.6,7.12869116564434,SSP5-8.5,2,3,SSP1-2.6  +4.0%,SSP5-8.5  +7.1%,FALSE,TRUE,4.27563961425617,6.87869116564434,0,1
+Invertebrate,9.10979063431301,SSP1-2.6,10.6945239927872,SSP5-8.5,3,2,SSP1-2.6  +9.1%,SSP5-8.5  +10.7%,TRUE,TRUE,8.85979063431301,10.4445239927872,1,1
+Mid-trophic species,8.87917279013772,SSP1-2.6,12.6058439928908,SSP5-8.5,4,1,SSP1-2.6  +8.9%,SSP5-8.5  +12.6%,TRUE,TRUE,8.62917279013772,12.3558439928908,1,1

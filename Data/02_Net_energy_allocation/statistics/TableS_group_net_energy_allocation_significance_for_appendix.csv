@@ -1,0 +1,5 @@
+functional_group,n_species,n_paired_runs,ssp126_A_log2,ssp126_A_change_pct,ssp126_A_CI95_low_pct,ssp126_A_CI95_high_pct,ssp126_t,ssp126_p_adj_BH,ssp126_significance,ssp126_direction,ssp585_A_log2,ssp585_A_change_pct,ssp585_A_CI95_low_pct,ssp585_A_CI95_high_pct,ssp585_t,ssp585_p_adj_BH,ssp585_significance,ssp585_direction
+Prey,1,100,-0.281627,-17.734,-19.903,-15.448,,,NE,Not estimable,-0.408738,-24.672,-26.708,-22.568,,,NE,Not estimable
+Predator,4,100,-0.104194,-6.968,-15.827,-1.102,-1.451,0.364016,ns,Not significant,-0.221431,-14.229,-23.708,-3.649,-2.147,0.181527,ns,Not significant
+Invertebrate,3,100,0.054559,3.854,-12.491,17.815,0.405,0.724527,ns,Not significant,0.010154,0.706,-23.710,22.181,0.048,0.966288,ns,Not significant
+Mid-trophic species,6,100,-0.239595,-15.302,-27.079,-6.794,-2.381,0.189373,ns,Not significant,-0.384080,-23.373,-33.983,-12.591,-3.369,0.0597091,ns,Not significant

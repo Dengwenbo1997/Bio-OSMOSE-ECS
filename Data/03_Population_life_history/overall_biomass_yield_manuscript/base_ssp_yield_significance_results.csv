@@ -1,0 +1,3 @@
+n_species,mean_log_response_ratio,mean_percent_change_logRR,mean_percent_change_raw,p_value,comparison,p_label
+14,0.003190703516404443,0.31957992290641,-0.8183443357304327,0.5285,Base vs SSP1-2.6,P = 0.528
+14,0.016208179679741398,1.6340244770814971,0.49056069588396645,0.6045,Base vs SSP5-8.5,P = 0.605

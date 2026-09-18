@@ -1,0 +1,7 @@
+indicator,scenario,n_runs,n_species,n_time_steps
+biomass,Base,100,14,30
+biomass,SSP1-2.6,100,14,81
+biomass,SSP5-8.5,100,14,81
+yield,Base,100,14,30
+yield,SSP1-2.6,100,14,81
+yield,SSP5-8.5,100,14,81

@@ -1,0 +1,8 @@
+from_scenario,to_scenario,from_strategy,to_strategy,flow_strategy,n_species
+Base,SSP1-2.6,Base allocation,Somatic prioritization,Somatic prioritization,8
+Base,SSP1-2.6,Base allocation,Balanced allocation,Balanced allocation,4
+Base,SSP1-2.6,Base allocation,Gonadal prioritization,Gonadal prioritization,2
+SSP1-2.6,SSP5-8.5,Balanced allocation,Balanced allocation,Balanced allocation,1
+SSP1-2.6,SSP5-8.5,Balanced allocation,Somatic prioritization,Somatic prioritization,3
+SSP1-2.6,SSP5-8.5,Gonadal prioritization,Gonadal prioritization,Gonadal prioritization,2
+SSP1-2.6,SSP5-8.5,Somatic prioritization,Somatic prioritization,Somatic prioritization,8

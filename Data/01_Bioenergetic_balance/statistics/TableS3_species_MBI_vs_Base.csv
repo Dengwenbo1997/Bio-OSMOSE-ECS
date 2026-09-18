@@ -1,0 +1,15 @@
+﻿Species,"Paired runs, n","SSP1-2.6 MBI change, %","SSP1-2.6 95% CI, %",SSP1-2.6 Wilcoxon V,SSP1-2.6 paired rank-biserial r,SSP1-2.6 Holm-adjusted P,SSP1-2.6 significance,"SSP5-8.5 MBI change, %","SSP5-8.5 95% CI, %",SSP5-8.5 Wilcoxon V,SSP5-8.5 paired rank-biserial r,SSP5-8.5 Holm-adjusted P,SSP5-8.5 significance
+Engraulis japonicus,100,20.98,19.80 to 22.18,5050,1,1.11E-16,***,43.69,42.19 to 45.23,5050,1,1.11E-16,***
+Scomberomorus niphonius,100,12.49,12.04 to 12.94,5050,1,1.11E-16,***,34.85,34.38 to 35.32,5050,1,1.11E-16,***
+Trichiurus japonicus,100,25.99,24.97 to 27.01,5050,1,1.11E-16,***,38.1,37.02 to 39.16,5050,1,1.11E-16,***
+Muraenesox cinereus,100,43.13,42.32 to 43.93,5050,1,1.11E-16,***,79.97,78.92 to 81.01,5050,1,1.11E-16,***
+Miichthys miiuy,100,61.1,58.70 to 63.59,5050,1,1.11E-16,***,104.87,101.77 to 108.02,5050,1,1.11E-16,***
+Todarodes pacificus,100,88.54,79.94 to 97.74,5050,1,1.11E-16,***,129.63,118.85 to 141.18,5050,1,1.11E-16,***
+Trachysalambria curvirostris,100,48.6,43.86 to 53.62,5050,1,1.11E-16,***,74.21,68.10 to 80.37,5049,1,1.11E-16,***
+Portunus trituberculatus,100,79.85,74.59 to 85.35,5050,1,1.11E-16,***,94.99,89.14 to 101.20,5050,1,1.11E-16,***
+Scomber japonicus,100,13.64,12.86 to 14.39,5050,1,1.11E-16,***,37.75,36.84 to 38.63,5050,1,1.11E-16,***
+Decapterus maruadsi,100,9.02,8.56 to 9.45,5050,1,1.11E-16,***,21.97,21.42 to 22.51,5050,1,1.11E-16,***
+Pennahia argentata,100,28.83,27.98 to 29.66,5050,1,1.11E-16,***,51.57,50.53 to 52.63,5050,1,1.11E-16,***
+Pampus argenteus,100,23.17,22.20 to 24.15,5050,1,1.11E-16,***,42.19,41.04 to 43.35,5050,1,1.11E-16,***
+Larimichthys polyactis,100,25.68,24.39 to 27.02,5050,1,1.11E-16,***,47.92,46.52 to 49.35,5050,1,1.11E-16,***
+Trachurus japonicus,100,6.99,6.02 to 7.97,4979,0.972,1.11E-16,***,25.44,24.20 to 26.71,5050,1,1.11E-16,***

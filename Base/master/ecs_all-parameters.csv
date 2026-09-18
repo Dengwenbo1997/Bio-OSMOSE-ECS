@@ -1,0 +1,21 @@
+#ECS main configuration file,
+osmose.configuration.simulation,ecs_param-simulation.csv
+osmose.configuration.grid,ecs_param-grid.csv
+osmose.configuration.species,ecs_param-species.csv
+osmose.configuration.reproduction,ecs_param-reproduction.csv
+osmose.configuration.mortality.starvation,ecs_param-starvation.csv
+osmose.configuration.plankton,ecs_param-ltl.csv
+osmose.configuration.mortality.predation,ecs_param-predation.csv
+osmose.configuration.migration,ecs_param-out-mortality.csv
+osmose.configuration.movement,ecs_param-movement.csv
+osmose.configuration.fisheries,ecs_param-fishing.csv
+osmose.configuration.initialization,ecs_param-init-pop.csv
+osmose.configuration.output,ecs_param-output-test.csv
+osmose.configuration.mortality.additional,ecs_param-additional-mortality.csv
+osmose.configuration.bioen,ecs_param-bioen.csv
+,
+,
+mortality.algorithm,stochastic
+mortality.subdt,10
+,
+osmose.version,4.3.3

@@ -1,0 +1,2401 @@
+scenario,run,group,indicator,value
+Base,1,Prey,biomass,1050694.053
+Base,2,Prey,biomass,998781.577
+Base,3,Prey,biomass,969413.693
+Base,4,Prey,biomass,1051658.41966667
+Base,5,Prey,biomass,955890.595
+Base,6,Prey,biomass,1013115.408
+Base,7,Prey,biomass,996139.289333333
+Base,8,Prey,biomass,909989.566333333
+Base,9,Prey,biomass,954328.183
+Base,10,Prey,biomass,1011411.699
+Base,11,Prey,biomass,1050841.376
+Base,12,Prey,biomass,1010516.88766667
+Base,13,Prey,biomass,980676.749666667
+Base,14,Prey,biomass,1040875.22133333
+Base,15,Prey,biomass,1045730.39366667
+Base,16,Prey,biomass,950637.453
+Base,17,Prey,biomass,999587.484333333
+Base,18,Prey,biomass,990830.857333333
+Base,19,Prey,biomass,1016449.02666667
+Base,20,Prey,biomass,1042183.62766667
+Base,21,Prey,biomass,1056477.477
+Base,22,Prey,biomass,945395.070333333
+Base,23,Prey,biomass,1011769.06733333
+Base,24,Prey,biomass,1014416.39433333
+Base,25,Prey,biomass,1062452.68966667
+Base,26,Prey,biomass,967979.169
+Base,27,Prey,biomass,1005619.50833333
+Base,28,Prey,biomass,1023521.66733333
+Base,29,Prey,biomass,972102.333666667
+Base,30,Prey,biomass,965463.504
+Base,31,Prey,biomass,1011837.841
+Base,32,Prey,biomass,988716.907666667
+Base,33,Prey,biomass,1034986.97533333
+Base,34,Prey,biomass,1029425.07766667
+Base,35,Prey,biomass,1059539.66933333
+Base,36,Prey,biomass,986673.851666667
+Base,37,Prey,biomass,984024.364666667
+Base,38,Prey,biomass,1005216.682
+Base,39,Prey,biomass,1049746.06633333
+Base,40,Prey,biomass,971584.995666666
+Base,41,Prey,biomass,1059351.9
+Base,42,Prey,biomass,1014235.07133333
+Base,43,Prey,biomass,995627.38
+Base,44,Prey,biomass,968004.075666667
+Base,45,Prey,biomass,1016514.84433333
+Base,46,Prey,biomass,1032645.658
+Base,47,Prey,biomass,967949.56
+Base,48,Prey,biomass,975791.603333333
+Base,49,Prey,biomass,987024.409333334
+Base,50,Prey,biomass,1034332.084
+Base,51,Prey,biomass,1018354.87866667
+Base,52,Prey,biomass,970012.736333334
+Base,53,Prey,biomass,951545.585
+Base,54,Prey,biomass,970235.780333333
+Base,55,Prey,biomass,983397.892
+Base,56,Prey,biomass,949525.812333333
+Base,57,Prey,biomass,1074911.722
+Base,58,Prey,biomass,1028524.365
+Base,59,Prey,biomass,1007813.207
+Base,60,Prey,biomass,1033658.67366667
+Base,61,Prey,biomass,1029161.43566667
+Base,62,Prey,biomass,1046566.84033333
+Base,63,Prey,biomass,933301.722666667
+Base,64,Prey,biomass,1027723.06133333
+Base,65,Prey,biomass,977489.604666667
+Base,66,Prey,biomass,1034400.097
+Base,67,Prey,biomass,978582.678333333
+Base,68,Prey,biomass,1043260.073
+Base,69,Prey,biomass,1015501.28166667
+Base,70,Prey,biomass,1022041.44166667
+Base,71,Prey,biomass,1075591.33
+Base,72,Prey,biomass,959731.2
+Base,73,Prey,biomass,969938.927333333
+Base,74,Prey,biomass,1003103.48666667
+Base,75,Prey,biomass,1014102.48666667
+Base,76,Prey,biomass,961429.443
+Base,77,Prey,biomass,929913.520333334
+Base,78,Prey,biomass,1039563.28133333
+Base,79,Prey,biomass,1023215.99433333
+Base,80,Prey,biomass,1010478.13466667
+Base,81,Prey,biomass,965328.428333333
+Base,82,Prey,biomass,981204.995333333
+Base,83,Prey,biomass,956731.849
+Base,84,Prey,biomass,1007200.96533333
+Base,85,Prey,biomass,985041.967333333
+Base,86,Prey,biomass,1048549.16633333
+Base,87,Prey,biomass,1003093.92333333
+Base,88,Prey,biomass,982753.658
+Base,89,Prey,biomass,1031425.72266667
+Base,90,Prey,biomass,1045405.993
+Base,91,Prey,biomass,1040092.53366667
+Base,92,Prey,biomass,965112.615333334
+Base,93,Prey,biomass,1007669.94266667
+Base,94,Prey,biomass,1019532.00666667
+Base,95,Prey,biomass,1011892.959
+Base,96,Prey,biomass,908633.791
+Base,97,Prey,biomass,1018248.76933333
+Base,98,Prey,biomass,1064202.97466667
+Base,99,Prey,biomass,1034527.025
+Base,100,Prey,biomass,1001879.13566667
+Base,1,Predator,biomass,2519795.9787
+Base,2,Predator,biomass,2483295.31426667
+Base,3,Predator,biomass,2547174.23516667
+Base,4,Predator,biomass,2536109.84166667
+Base,5,Predator,biomass,2538365.547
+Base,6,Predator,biomass,2587120.98323333
+Base,7,Predator,biomass,2576750.79396667
+Base,8,Predator,biomass,2515715.0345
+Base,9,Predator,biomass,2505449.6825
+Base,10,Predator,biomass,2531241.80286667
+Base,11,Predator,biomass,2515237.8375
+Base,12,Predator,biomass,2491456.49223333
+Base,13,Predator,biomass,2557541.40623333
+Base,14,Predator,biomass,2606000.45706667
+Base,15,Predator,biomass,2634498.14073333
+Base,16,Predator,biomass,2604487.7266
+Base,17,Predator,biomass,2540399.25346667
+Base,18,Predator,biomass,2491908.99696667
+Base,19,Predator,biomass,2617013.9059
+Base,20,Predator,biomass,2465710.9995
+Base,21,Predator,biomass,2495428.15873333
+Base,22,Predator,biomass,2507837.07253333
+Base,23,Predator,biomass,2489492.87203333
+Base,24,Predator,biomass,2494152.6962
+Base,25,Predator,biomass,2462592.03543333
+Base,26,Predator,biomass,2523646.96273333
+Base,27,Predator,biomass,2514020.58463333
+Base,28,Predator,biomass,2543800.90463333
+Base,29,Predator,biomass,2545424.1732
+Base,30,Predator,biomass,2487367.10726667
+Base,31,Predator,biomass,2488936.26886667
+Base,32,Predator,biomass,2624217.10323333
+Base,33,Predator,biomass,2591834.29266667
+Base,34,Predator,biomass,2548379.408
+Base,35,Predator,biomass,2714866.05933333
+Base,36,Predator,biomass,2491925.7936
+Base,37,Predator,biomass,2541341.62726667
+Base,38,Predator,biomass,2587090.6334
+Base,39,Predator,biomass,2623182.31193333
+Base,40,Predator,biomass,2475941.487
+Base,41,Predator,biomass,2462283.54653333
+Base,42,Predator,biomass,2436895.47673333
+Base,43,Predator,biomass,2488469.1316
+Base,44,Predator,biomass,2532939.97603333
+Base,45,Predator,biomass,2512699.7074
+Base,46,Predator,biomass,2499986.43203333
+Base,47,Predator,biomass,2479406.92143333
+Base,48,Predator,biomass,2637176.646
+Base,49,Predator,biomass,2550589.42093333
+Base,50,Predator,biomass,2579478.83996667
+Base,51,Predator,biomass,2677040.27696667
+Base,52,Predator,biomass,2546354.11943333
+Base,53,Predator,biomass,2475571.16293333
+Base,54,Predator,biomass,2512496.20653333
+Base,55,Predator,biomass,2533827.891
+Base,56,Predator,biomass,2597401.03763333
+Base,57,Predator,biomass,2560650.83483333
+Base,58,Predator,biomass,2607542.84216667
+Base,59,Predator,biomass,2538770.5064
+Base,60,Predator,biomass,2492306.58553333
+Base,61,Predator,biomass,2522212.2221
+Base,62,Predator,biomass,2436089.35686667
+Base,63,Predator,biomass,2460806.83473333
+Base,64,Predator,biomass,2704473.44776667
+Base,65,Predator,biomass,2637727.52126667
+Base,66,Predator,biomass,2531411.95876667
+Base,67,Predator,biomass,2643941.71593333
+Base,68,Predator,biomass,2557128.55543333
+Base,69,Predator,biomass,2618837.20593333
+Base,70,Predator,biomass,2554417.45396667
+Base,71,Predator,biomass,2488456.34196667
+Base,72,Predator,biomass,2511089.54443333
+Base,73,Predator,biomass,2494775.6169
+Base,74,Predator,biomass,2539795.24933333
+Base,75,Predator,biomass,2620166.41183333
+Base,76,Predator,biomass,2563030.96346667
+Base,77,Predator,biomass,2518350.94913333
+Base,78,Predator,biomass,2611993.65676667
+Base,79,Predator,biomass,2573134.59413333
+Base,80,Predator,biomass,2557921.798
+Base,81,Predator,biomass,2497994.7509
+Base,82,Predator,biomass,2561176.67873333
+Base,83,Predator,biomass,2486832.92886667
+Base,84,Predator,biomass,2466728.62186667
+Base,85,Predator,biomass,2574621.65096667
+Base,86,Predator,biomass,2648027.3156
+Base,87,Predator,biomass,2540706.029
+Base,88,Predator,biomass,2467897.1943
+Base,89,Predator,biomass,2532945.07836667
+Base,90,Predator,biomass,2693735.1315
+Base,91,Predator,biomass,2523173.49433333
+Base,92,Predator,biomass,2510902.6259
+Base,93,Predator,biomass,2624664.58803333
+Base,94,Predator,biomass,2390090.4778
+Base,95,Predator,biomass,2504320.68246667
+Base,96,Predator,biomass,2468557.20646667
+Base,97,Predator,biomass,2467143.9131
+Base,98,Predator,biomass,2469526.9581
+Base,99,Predator,biomass,2594990.65493333
+Base,100,Predator,biomass,2606156.15336667
+Base,1,Invertebrate,biomass,1526442.38766667
+Base,2,Invertebrate,biomass,1547600.48066667
+Base,3,Invertebrate,biomass,1589693.49866667
+Base,4,Invertebrate,biomass,1542507.85766667
+Base,5,Invertebrate,biomass,1590684.97233333
+Base,6,Invertebrate,biomass,1582412.801
+Base,7,Invertebrate,biomass,1569684.99133333
+Base,8,Invertebrate,biomass,1633033.96733333
+Base,9,Invertebrate,biomass,1516608.39733333
+Base,10,Invertebrate,biomass,1602446.647
+Base,11,Invertebrate,biomass,1645059.89566667
+Base,12,Invertebrate,biomass,1541285.32413333
+Base,13,Invertebrate,biomass,1590257.34433333
+Base,14,Invertebrate,biomass,1422507.11966667
+Base,15,Invertebrate,biomass,1559656.193
+Base,16,Invertebrate,biomass,1589721.791
+Base,17,Invertebrate,biomass,1615982.53066667
+Base,18,Invertebrate,biomass,1603743.545
+Base,19,Invertebrate,biomass,1600666.461
+Base,20,Invertebrate,biomass,1580650.58433333
+Base,21,Invertebrate,biomass,1562400.96233333
+Base,22,Invertebrate,biomass,1616848.72966667
+Base,23,Invertebrate,biomass,1544672.693
+Base,24,Invertebrate,biomass,1546802.22683333
+Base,25,Invertebrate,biomass,1576263.418
+Base,26,Invertebrate,biomass,1579766.22966667
+Base,27,Invertebrate,biomass,1549167.69833333
+Base,28,Invertebrate,biomass,1547819.119
+Base,29,Invertebrate,biomass,1583811.024
+Base,30,Invertebrate,biomass,1670865.55513333
+Base,31,Invertebrate,biomass,1588361.94366667
+Base,32,Invertebrate,biomass,1579566.856
+Base,33,Invertebrate,biomass,1520404.40466667
+Base,34,Invertebrate,biomass,1597844.14433333
+Base,35,Invertebrate,biomass,1605975.51233333
+Base,36,Invertebrate,biomass,1598705.01033333
+Base,37,Invertebrate,biomass,1603507.7692
+Base,38,Invertebrate,biomass,1569581.701
+Base,39,Invertebrate,biomass,1588509.64433333
+Base,40,Invertebrate,biomass,1578898.81233333
+Base,41,Invertebrate,biomass,1604417.4675
+Base,42,Invertebrate,biomass,1595812.764
+Base,43,Invertebrate,biomass,1486349.708
+Base,44,Invertebrate,biomass,1523857.6478
+Base,45,Invertebrate,biomass,1517818.01866667
+Base,46,Invertebrate,biomass,1655269.879
+Base,47,Invertebrate,biomass,1494082.97133333
+Base,48,Invertebrate,biomass,1552085.058
+Base,49,Invertebrate,biomass,1536467.38133333
+Base,50,Invertebrate,biomass,1652189.25233333
+Base,51,Invertebrate,biomass,1600607.08666667
+Base,52,Invertebrate,biomass,1724632.29386667
+Base,53,Invertebrate,biomass,1579249.4505
+Base,54,Invertebrate,biomass,1624818.39233333
+Base,55,Invertebrate,biomass,1691296.75166667
+Base,56,Invertebrate,biomass,1577604.74833333
+Base,57,Invertebrate,biomass,1561542.36433333
+Base,58,Invertebrate,biomass,1577683.46683333
+Base,59,Invertebrate,biomass,1575386.49086667
+Base,60,Invertebrate,biomass,1538811.713
+Base,61,Invertebrate,biomass,1571270.681
+Base,62,Invertebrate,biomass,1561278.84433333
+Base,63,Invertebrate,biomass,1601227.38333333
+Base,64,Invertebrate,biomass,1665151.59233333
+Base,65,Invertebrate,biomass,1706550.41533333
+Base,66,Invertebrate,biomass,1506207.652
+Base,67,Invertebrate,biomass,1607301.72833333
+Base,68,Invertebrate,biomass,1554357.557
+Base,69,Invertebrate,biomass,1549563.394
+Base,70,Invertebrate,biomass,1605423.43533333
+Base,71,Invertebrate,biomass,1554483.1822
+Base,72,Invertebrate,biomass,1606736.49666667
+Base,73,Invertebrate,biomass,1538283.41133333
+Base,74,Invertebrate,biomass,1649383.58466667
+Base,75,Invertebrate,biomass,1566673.1085
+Base,76,Invertebrate,biomass,1598282.02453333
+Base,77,Invertebrate,biomass,1623217.70733333
+Base,78,Invertebrate,biomass,1520102.60266667
+Base,79,Invertebrate,biomass,1597706.70633333
+Base,80,Invertebrate,biomass,1554733.90766667
+Base,81,Invertebrate,biomass,1664514.14966667
+Base,82,Invertebrate,biomass,1534651.42733333
+Base,83,Invertebrate,biomass,1634358.64333333
+Base,84,Invertebrate,biomass,1603410.32266667
+Base,85,Invertebrate,biomass,1594867.316
+Base,86,Invertebrate,biomass,1579095.97086667
+Base,87,Invertebrate,biomass,1526603.27233333
+Base,88,Invertebrate,biomass,1563178.481
+Base,89,Invertebrate,biomass,1596691.00833333
+Base,90,Invertebrate,biomass,1524855.634
+Base,91,Invertebrate,biomass,1471125.42983333
+Base,92,Invertebrate,biomass,1513068.76966667
+Base,93,Invertebrate,biomass,1522204.63933333
+Base,94,Invertebrate,biomass,1616829.60733333
+Base,95,Invertebrate,biomass,1604540.043
+Base,96,Invertebrate,biomass,1592593.60366667
+Base,97,Invertebrate,biomass,1624250.73833333
+Base,98,Invertebrate,biomass,1580296.86666667
+Base,99,Invertebrate,biomass,1570395.82433333
+Base,100,Invertebrate,biomass,1563433.696
+Base,1,Mid-trophic species,biomass,2519282.90155
+Base,2,Mid-trophic species,biomass,2658235.33805
+Base,3,Mid-trophic species,biomass,2528131.14297
+Base,4,Mid-trophic species,biomass,2480454.27662333
+Base,5,Mid-trophic species,biomass,2514864.89643333
+Base,6,Mid-trophic species,biomass,2462668.34956333
+Base,7,Mid-trophic species,biomass,2495053.25222333
+Base,8,Mid-trophic species,biomass,2413635.14813333
+Base,9,Mid-trophic species,biomass,2435086.26676
+Base,10,Mid-trophic species,biomass,2467714.75887333
+Base,11,Mid-trophic species,biomass,2457461.61707
+Base,12,Mid-trophic species,biomass,2508138.52356
+Base,13,Mid-trophic species,biomass,2485836.47652667
+Base,14,Mid-trophic species,biomass,2495805.64146
+Base,15,Mid-trophic species,biomass,2503674.63031333
+Base,16,Mid-trophic species,biomass,2482487.70045333
+Base,17,Mid-trophic species,biomass,2503543.14983333
+Base,18,Mid-trophic species,biomass,2454173.05472333
+Base,19,Mid-trophic species,biomass,2432878.76465667
+Base,20,Mid-trophic species,biomass,2349292.56629667
+Base,21,Mid-trophic species,biomass,2549701.14856333
+Base,22,Mid-trophic species,biomass,2555519.29749667
+Base,23,Mid-trophic species,biomass,2514543.26267667
+Base,24,Mid-trophic species,biomass,2404299.67152667
+Base,25,Mid-trophic species,biomass,2603105.04558
+Base,26,Mid-trophic species,biomass,2531423.3802
+Base,27,Mid-trophic species,biomass,2510930.46427
+Base,28,Mid-trophic species,biomass,2461829.82771667
+Base,29,Mid-trophic species,biomass,2497983.21189333
+Base,30,Mid-trophic species,biomass,2467081.01589
+Base,31,Mid-trophic species,biomass,2519680.27935867
+Base,32,Mid-trophic species,biomass,2543524.35025
+Base,33,Mid-trophic species,biomass,2471007.88301
+Base,34,Mid-trophic species,biomass,2543834.91536667
+Base,35,Mid-trophic species,biomass,2515413.07541
+Base,36,Mid-trophic species,biomass,2545110.29962
+Base,37,Mid-trophic species,biomass,2483496.29680667
+Base,38,Mid-trophic species,biomass,2453168.08341333
+Base,39,Mid-trophic species,biomass,2538985.65473
+Base,40,Mid-trophic species,biomass,2470851.79551
+Base,41,Mid-trophic species,biomass,2528313.75402
+Base,42,Mid-trophic species,biomass,2409329.1941
+Base,43,Mid-trophic species,biomass,2523018.73048333
+Base,44,Mid-trophic species,biomass,2571727.37658667
+Base,45,Mid-trophic species,biomass,2532238.53992667
+Base,46,Mid-trophic species,biomass,2516936.1112
+Base,47,Mid-trophic species,biomass,2545281.97613
+Base,48,Mid-trophic species,biomass,2447092.62501
+Base,49,Mid-trophic species,biomass,2537798.15912333
+Base,50,Mid-trophic species,biomass,2481727.99505
+Base,51,Mid-trophic species,biomass,2549232.15347767
+Base,52,Mid-trophic species,biomass,2443244.14863333
+Base,53,Mid-trophic species,biomass,2512560.57137333
+Base,54,Mid-trophic species,biomass,2497970.85694333
+Base,55,Mid-trophic species,biomass,2457208.24572333
+Base,56,Mid-trophic species,biomass,2475335.45742
+Base,57,Mid-trophic species,biomass,2522935.44984333
+Base,58,Mid-trophic species,biomass,2588270.75967333
+Base,59,Mid-trophic species,biomass,2514738.07652
+Base,60,Mid-trophic species,biomass,2521706.54794667
+Base,61,Mid-trophic species,biomass,2572358.118338
+Base,62,Mid-trophic species,biomass,2637056.36447
+Base,63,Mid-trophic species,biomass,2455533.11391333
+Base,64,Mid-trophic species,biomass,2446270.59791667
+Base,65,Mid-trophic species,biomass,2387329.27233667
+Base,66,Mid-trophic species,biomass,2478281.36811333
+Base,67,Mid-trophic species,biomass,2541098.30747333
+Base,68,Mid-trophic species,biomass,2483606.58551667
+Base,69,Mid-trophic species,biomass,2462596.44619667
+Base,70,Mid-trophic species,biomass,2500416.23933
+Base,71,Mid-trophic species,biomass,2683561.84989
+Base,72,Mid-trophic species,biomass,2460060.06456
+Base,73,Mid-trophic species,biomass,2482715.62596667
+Base,74,Mid-trophic species,biomass,2486625.31324533
+Base,75,Mid-trophic species,biomass,2538564.27240333
+Base,76,Mid-trophic species,biomass,2456476.49733667
+Base,77,Mid-trophic species,biomass,2554714.58745667
+Base,78,Mid-trophic species,biomass,2481319.10996
+Base,79,Mid-trophic species,biomass,2475154.31594333
+Base,80,Mid-trophic species,biomass,2496058.25344
+Base,81,Mid-trophic species,biomass,2512623.65129667
+Base,82,Mid-trophic species,biomass,2549010.30327
+Base,83,Mid-trophic species,biomass,2489450.21870667
+Base,84,Mid-trophic species,biomass,2477212.29551
+Base,85,Mid-trophic species,biomass,2513909.44491333
+Base,86,Mid-trophic species,biomass,2580051.41707
+Base,87,Mid-trophic species,biomass,2570672.14442
+Base,88,Mid-trophic species,biomass,2521338.98750333
+Base,89,Mid-trophic species,biomass,2545676.86088333
+Base,90,Mid-trophic species,biomass,2447164.64678
+Base,91,Mid-trophic species,biomass,2571012.98956333
+Base,92,Mid-trophic species,biomass,2537068.07235
+Base,93,Mid-trophic species,biomass,2633771.32217333
+Base,94,Mid-trophic species,biomass,2560955.44692333
+Base,95,Mid-trophic species,biomass,2428247.38909
+Base,96,Mid-trophic species,biomass,2549767.32870667
+Base,97,Mid-trophic species,biomass,2542672.53155
+Base,98,Mid-trophic species,biomass,2437918.28152
+Base,99,Mid-trophic species,biomass,2574527.90352433
+Base,100,Mid-trophic species,biomass,2474177.44898333
+SSP1-2.6,1,Prey,biomass,836226.328271605
+SSP1-2.6,2,Prey,biomass,811334.764691358
+SSP1-2.6,3,Prey,biomass,807228.707283951
+SSP1-2.6,4,Prey,biomass,823095.404691358
+SSP1-2.6,5,Prey,biomass,818772.185555556
+SSP1-2.6,6,Prey,biomass,812238.322839506
+SSP1-2.6,7,Prey,biomass,785436.626666667
+SSP1-2.6,8,Prey,biomass,803467.049506173
+SSP1-2.6,9,Prey,biomass,863607.00308642
+SSP1-2.6,10,Prey,biomass,856657.143580247
+SSP1-2.6,11,Prey,biomass,805841.161728395
+SSP1-2.6,12,Prey,biomass,807753.49617284
+SSP1-2.6,13,Prey,biomass,781506.505185185
+SSP1-2.6,14,Prey,biomass,815382.099259259
+SSP1-2.6,15,Prey,biomass,855602.653209877
+SSP1-2.6,16,Prey,biomass,826337.335555556
+SSP1-2.6,17,Prey,biomass,838752.952716049
+SSP1-2.6,18,Prey,biomass,844698.723333333
+SSP1-2.6,19,Prey,biomass,820570.619753086
+SSP1-2.6,20,Prey,biomass,792858.453580247
+SSP1-2.6,21,Prey,biomass,862475.986419753
+SSP1-2.6,22,Prey,biomass,782867.072098765
+SSP1-2.6,23,Prey,biomass,830775.784444445
+SSP1-2.6,24,Prey,biomass,808241.386049383
+SSP1-2.6,25,Prey,biomass,854351.925185185
+SSP1-2.6,26,Prey,biomass,842037.918148148
+SSP1-2.6,27,Prey,biomass,859503.111234568
+SSP1-2.6,28,Prey,biomass,847372.456419753
+SSP1-2.6,29,Prey,biomass,803778.039506173
+SSP1-2.6,30,Prey,biomass,830263.881851852
+SSP1-2.6,31,Prey,biomass,807954.27962963
+SSP1-2.6,32,Prey,biomass,822585.982839506
+SSP1-2.6,33,Prey,biomass,852643.940493827
+SSP1-2.6,34,Prey,biomass,785922.007283951
+SSP1-2.6,35,Prey,biomass,829626.852345679
+SSP1-2.6,36,Prey,biomass,836122.494320988
+SSP1-2.6,37,Prey,biomass,794480.305679013
+SSP1-2.6,38,Prey,biomass,819697.428024692
+SSP1-2.6,39,Prey,biomass,806681.555555556
+SSP1-2.6,40,Prey,biomass,798472.516419753
+SSP1-2.6,41,Prey,biomass,815972.682222222
+SSP1-2.6,42,Prey,biomass,829382.970617284
+SSP1-2.6,43,Prey,biomass,763271.665308642
+SSP1-2.6,44,Prey,biomass,815062.777901234
+SSP1-2.6,45,Prey,biomass,809509.127160494
+SSP1-2.6,46,Prey,biomass,830171.265061728
+SSP1-2.6,47,Prey,biomass,819915.029506173
+SSP1-2.6,48,Prey,biomass,815755.962469136
+SSP1-2.6,49,Prey,biomass,826545.320864198
+SSP1-2.6,50,Prey,biomass,831941.034444444
+SSP1-2.6,51,Prey,biomass,813648.093703704
+SSP1-2.6,52,Prey,biomass,780390.406296296
+SSP1-2.6,53,Prey,biomass,844896.749753087
+SSP1-2.6,54,Prey,biomass,806995.846296296
+SSP1-2.6,55,Prey,biomass,820188.141111111
+SSP1-2.6,56,Prey,biomass,802241.297407408
+SSP1-2.6,57,Prey,biomass,809816.608395061
+SSP1-2.6,58,Prey,biomass,788353.647283951
+SSP1-2.6,59,Prey,biomass,801426.629506173
+SSP1-2.6,60,Prey,biomass,827000.306666667
+SSP1-2.6,61,Prey,biomass,777706.206419753
+SSP1-2.6,62,Prey,biomass,789440.589382716
+SSP1-2.6,63,Prey,biomass,838578.404691358
+SSP1-2.6,64,Prey,biomass,818188.821604939
+SSP1-2.6,65,Prey,biomass,798550.714567901
+SSP1-2.6,66,Prey,biomass,814043.679876544
+SSP1-2.6,67,Prey,biomass,791338.830987654
+SSP1-2.6,68,Prey,biomass,824651.484197531
+SSP1-2.6,69,Prey,biomass,822633.449012346
+SSP1-2.6,70,Prey,biomass,805722.770246914
+SSP1-2.6,71,Prey,biomass,823842.629135803
+SSP1-2.6,72,Prey,biomass,798989.055061729
+SSP1-2.6,73,Prey,biomass,838588.401358025
+SSP1-2.6,74,Prey,biomass,836308.369876543
+SSP1-2.6,75,Prey,biomass,805799.780987654
+SSP1-2.6,76,Prey,biomass,836773.720987655
+SSP1-2.6,77,Prey,biomass,848228.538024692
+SSP1-2.6,78,Prey,biomass,813189.332345679
+SSP1-2.6,79,Prey,biomass,827267.745061728
+SSP1-2.6,80,Prey,biomass,772051.257530864
+SSP1-2.6,81,Prey,biomass,810924.422345679
+SSP1-2.6,82,Prey,biomass,786655.805432099
+SSP1-2.6,83,Prey,biomass,804722.224444445
+SSP1-2.6,84,Prey,biomass,804324.944444445
+SSP1-2.6,85,Prey,biomass,829166.98728395
+SSP1-2.6,86,Prey,biomass,807796.799753086
+SSP1-2.6,87,Prey,biomass,775835.106296296
+SSP1-2.6,88,Prey,biomass,839277.354197531
+SSP1-2.6,89,Prey,biomass,786872.040617284
+SSP1-2.6,90,Prey,biomass,795522.49308642
+SSP1-2.6,91,Prey,biomass,813624.411604938
+SSP1-2.6,92,Prey,biomass,813874.577037037
+SSP1-2.6,93,Prey,biomass,815916.977407408
+SSP1-2.6,94,Prey,biomass,798505.91308642
+SSP1-2.6,95,Prey,biomass,793950.717160494
+SSP1-2.6,96,Prey,biomass,871243.021481481
+SSP1-2.6,97,Prey,biomass,811255.977530865
+SSP1-2.6,98,Prey,biomass,813496.515432099
+SSP1-2.6,99,Prey,biomass,841184.792592593
+SSP1-2.6,100,Prey,biomass,816346.50728395
+SSP1-2.6,1,Predator,biomass,2450771.18898765
+SSP1-2.6,2,Predator,biomass,2473253.74125926
+SSP1-2.6,3,Predator,biomass,2481468.2831358
+SSP1-2.6,4,Predator,biomass,2460029.7465679
+SSP1-2.6,5,Predator,biomass,2449013.78062963
+SSP1-2.6,6,Predator,biomass,2474711.79493827
+SSP1-2.6,7,Predator,biomass,2486287.1134321
+SSP1-2.6,8,Predator,biomass,2458633.42107407
+SSP1-2.6,9,Predator,biomass,2499539.58104938
+SSP1-2.6,10,Predator,biomass,2464680.94485185
+SSP1-2.6,11,Predator,biomass,2479446.8192963
+SSP1-2.6,12,Predator,biomass,2473965.8042963
+SSP1-2.6,13,Predator,biomass,2478410.79534568
+SSP1-2.6,14,Predator,biomass,2449406.65296296
+SSP1-2.6,15,Predator,biomass,2444294.64401235
+SSP1-2.6,16,Predator,biomass,2488064.6247284
+SSP1-2.6,17,Predator,biomass,2572150.97583951
+SSP1-2.6,18,Predator,biomass,2454566.13809877
+SSP1-2.6,19,Predator,biomass,2499381.84516049
+SSP1-2.6,20,Predator,biomass,2509527.57951852
+SSP1-2.6,21,Predator,biomass,2519443.56932099
+SSP1-2.6,22,Predator,biomass,2514024.02481481
+SSP1-2.6,23,Predator,biomass,2450275.71944445
+SSP1-2.6,24,Predator,biomass,2498043.45396296
+SSP1-2.6,25,Predator,biomass,2459945.68830864
+SSP1-2.6,26,Predator,biomass,2552873.59337037
+SSP1-2.6,27,Predator,biomass,2504453.77619753
+SSP1-2.6,28,Predator,biomass,2466301.57637037
+SSP1-2.6,29,Predator,biomass,2539022.95227161
+SSP1-2.6,30,Predator,biomass,2528864.94972839
+SSP1-2.6,31,Predator,biomass,2472185.86483951
+SSP1-2.6,32,Predator,biomass,2525504.73498765
+SSP1-2.6,33,Predator,biomass,2511223.7051358
+SSP1-2.6,34,Predator,biomass,2521142.76411111
+SSP1-2.6,35,Predator,biomass,2514645.06706173
+SSP1-2.6,36,Predator,biomass,2472979.93102469
+SSP1-2.6,37,Predator,biomass,2427404.44467901
+SSP1-2.6,38,Predator,biomass,2460402.19803704
+SSP1-2.6,39,Predator,biomass,2468129.19395062
+SSP1-2.6,40,Predator,biomass,2505505.27328395
+SSP1-2.6,41,Predator,biomass,2582043.96216049
+SSP1-2.6,42,Predator,biomass,2439288.03677778
+SSP1-2.6,43,Predator,biomass,2475031.57217284
+SSP1-2.6,44,Predator,biomass,2485885.58065432
+SSP1-2.6,45,Predator,biomass,2482119.82537037
+SSP1-2.6,46,Predator,biomass,2469108.3272963
+SSP1-2.6,47,Predator,biomass,2485745.30541975
+SSP1-2.6,48,Predator,biomass,2491765.30145679
+SSP1-2.6,49,Predator,biomass,2535993.22935803
+SSP1-2.6,50,Predator,biomass,2541374.57964198
+SSP1-2.6,51,Predator,biomass,2473432.16528395
+SSP1-2.6,52,Predator,biomass,2524792.75916049
+SSP1-2.6,53,Predator,biomass,2496980.27838272
+SSP1-2.6,54,Predator,biomass,2498713.16177778
+SSP1-2.6,55,Predator,biomass,2571331.23728395
+SSP1-2.6,56,Predator,biomass,2533460.00353086
+SSP1-2.6,57,Predator,biomass,2459128.49544444
+SSP1-2.6,58,Predator,biomass,2443713.22266667
+SSP1-2.6,59,Predator,biomass,2554607.35067901
+SSP1-2.6,60,Predator,biomass,2511502.68401235
+SSP1-2.6,61,Predator,biomass,2508098.05075309
+SSP1-2.6,62,Predator,biomass,2529905.64935802
+SSP1-2.6,63,Predator,biomass,2478826.98145679
+SSP1-2.6,64,Predator,biomass,2518518.87533333
+SSP1-2.6,65,Predator,biomass,2484560.02403704
+SSP1-2.6,66,Predator,biomass,2467610.5014321
+SSP1-2.6,67,Predator,biomass,2432425.23625926
+SSP1-2.6,68,Predator,biomass,2562411.08677778
+SSP1-2.6,69,Predator,biomass,2502861.5402963
+SSP1-2.6,70,Predator,biomass,2490205.12241975
+SSP1-2.6,71,Predator,biomass,2520914.74344444
+SSP1-2.6,72,Predator,biomass,2526339.60318518
+SSP1-2.6,73,Predator,biomass,2464010.00080247
+SSP1-2.6,74,Predator,biomass,2533043.61316049
+SSP1-2.6,75,Predator,biomass,2476402.5637037
+SSP1-2.6,76,Predator,biomass,2542504.80454321
+SSP1-2.6,77,Predator,biomass,2472008.86028395
+SSP1-2.6,78,Predator,biomass,2484584.36782716
+SSP1-2.6,79,Predator,biomass,2466309.55861728
+SSP1-2.6,80,Predator,biomass,2512889.25558025
+SSP1-2.6,81,Predator,biomass,2469452.92698765
+SSP1-2.6,82,Predator,biomass,2453406.14875309
+SSP1-2.6,83,Predator,biomass,2493306.59448148
+SSP1-2.6,84,Predator,biomass,2495800.54069136
+SSP1-2.6,85,Predator,biomass,2500689.56396296
+SSP1-2.6,86,Predator,biomass,2507804.63479012
+SSP1-2.6,87,Predator,biomass,2541665.01858025
+SSP1-2.6,88,Predator,biomass,2514646.85118518
+SSP1-2.6,89,Predator,biomass,2520193.72190123
+SSP1-2.6,90,Predator,biomass,2420756.92941975
+SSP1-2.6,91,Predator,biomass,2446084.6384321
+SSP1-2.6,92,Predator,biomass,2502208.54438272
+SSP1-2.6,93,Predator,biomass,2511489.86282716
+SSP1-2.6,94,Predator,biomass,2459322.62128395
+SSP1-2.6,95,Predator,biomass,2538129.48503704
+SSP1-2.6,96,Predator,biomass,2491548.1318642
+SSP1-2.6,97,Predator,biomass,2491267.47898765
+SSP1-2.6,98,Predator,biomass,2501227.14755555
+SSP1-2.6,99,Predator,biomass,2514636.68432099
+SSP1-2.6,100,Predator,biomass,2543277.29849383
+SSP1-2.6,1,Invertebrate,biomass,1554952.37234568
+SSP1-2.6,2,Invertebrate,biomass,1562658.64180247
+SSP1-2.6,3,Invertebrate,biomass,1535737.06118519
+SSP1-2.6,4,Invertebrate,biomass,1565851.61858025
+SSP1-2.6,5,Invertebrate,biomass,1527535.46185185
+SSP1-2.6,6,Invertebrate,biomass,1593796.05325926
+SSP1-2.6,7,Invertebrate,biomass,1578936.07419753
+SSP1-2.6,8,Invertebrate,biomass,1562187.39353086
+SSP1-2.6,9,Invertebrate,biomass,1576274.22950617
+SSP1-2.6,10,Invertebrate,biomass,1527580.10753086
+SSP1-2.6,11,Invertebrate,biomass,1601453.54074074
+SSP1-2.6,12,Invertebrate,biomass,1626047.16617284
+SSP1-2.6,13,Invertebrate,biomass,1538410.24609877
+SSP1-2.6,14,Invertebrate,biomass,1585798.52864198
+SSP1-2.6,15,Invertebrate,biomass,1544376.65685185
+SSP1-2.6,16,Invertebrate,biomass,1582428.76111111
+SSP1-2.6,17,Invertebrate,biomass,1617627.25316049
+SSP1-2.6,18,Invertebrate,biomass,1560869.27814815
+SSP1-2.6,19,Invertebrate,biomass,1568332.1641358
+SSP1-2.6,20,Invertebrate,biomass,1581982.61895062
+SSP1-2.6,21,Invertebrate,biomass,1548201.7854321
+SSP1-2.6,22,Invertebrate,biomass,1601922.12049383
+SSP1-2.6,23,Invertebrate,biomass,1511047.92434568
+SSP1-2.6,24,Invertebrate,biomass,1560679.70012346
+SSP1-2.6,25,Invertebrate,biomass,1525579.83432099
+SSP1-2.6,26,Invertebrate,biomass,1576941.2197284
+SSP1-2.6,27,Invertebrate,biomass,1516635.56227161
+SSP1-2.6,28,Invertebrate,biomass,1556617.31214815
+SSP1-2.6,29,Invertebrate,biomass,1540618.12118518
+SSP1-2.6,30,Invertebrate,biomass,1542199.35148148
+SSP1-2.6,31,Invertebrate,biomass,1510316.34912346
+SSP1-2.6,32,Invertebrate,biomass,1542611.65733333
+SSP1-2.6,33,Invertebrate,biomass,1574694.50493827
+SSP1-2.6,34,Invertebrate,biomass,1565342.33320988
+SSP1-2.6,35,Invertebrate,biomass,1543171.47314815
+SSP1-2.6,36,Invertebrate,biomass,1550749.11449383
+SSP1-2.6,37,Invertebrate,biomass,1597953.82932099
+SSP1-2.6,38,Invertebrate,biomass,1612703.83511111
+SSP1-2.6,39,Invertebrate,biomass,1551131.04609877
+SSP1-2.6,40,Invertebrate,biomass,1572882.30412346
+SSP1-2.6,41,Invertebrate,biomass,1601952.54839506
+SSP1-2.6,42,Invertebrate,biomass,1514599.93845679
+SSP1-2.6,43,Invertebrate,biomass,1575034.86728395
+SSP1-2.6,44,Invertebrate,biomass,1552317.38654321
+SSP1-2.6,45,Invertebrate,biomass,1601763.59950617
+SSP1-2.6,46,Invertebrate,biomass,1550102.13691358
+SSP1-2.6,47,Invertebrate,biomass,1529711.37414815
+SSP1-2.6,48,Invertebrate,biomass,1548018.61549383
+SSP1-2.6,49,Invertebrate,biomass,1566750.0531358
+SSP1-2.6,50,Invertebrate,biomass,1581559.59728395
+SSP1-2.6,51,Invertebrate,biomass,1585597.89198765
+SSP1-2.6,52,Invertebrate,biomass,1597065.01214815
+SSP1-2.6,53,Invertebrate,biomass,1553197.28234568
+SSP1-2.6,54,Invertebrate,biomass,1540558.51604938
+SSP1-2.6,55,Invertebrate,biomass,1572536.23649383
+SSP1-2.6,56,Invertebrate,biomass,1547038.49087654
+SSP1-2.6,57,Invertebrate,biomass,1546555.5854321
+SSP1-2.6,58,Invertebrate,biomass,1632667.40191358
+SSP1-2.6,59,Invertebrate,biomass,1623515.77981481
+SSP1-2.6,60,Invertebrate,biomass,1568949.37135802
+SSP1-2.6,61,Invertebrate,biomass,1530877.69271605
+SSP1-2.6,62,Invertebrate,biomass,1526213.41962963
+SSP1-2.6,63,Invertebrate,biomass,1556647.77511111
+SSP1-2.6,64,Invertebrate,biomass,1590339.52259259
+SSP1-2.6,65,Invertebrate,biomass,1534218.08987654
+SSP1-2.6,66,Invertebrate,biomass,1566707.57285185
+SSP1-2.6,67,Invertebrate,biomass,1572239.34950617
+SSP1-2.6,68,Invertebrate,biomass,1556897.52283951
+SSP1-2.6,69,Invertebrate,biomass,1589676.30654321
+SSP1-2.6,70,Invertebrate,biomass,1623207.46814815
+SSP1-2.6,71,Invertebrate,biomass,1557241.6805679
+SSP1-2.6,72,Invertebrate,biomass,1588994.65148148
+SSP1-2.6,73,Invertebrate,biomass,1572873.45037037
+SSP1-2.6,74,Invertebrate,biomass,1543226.78864198
+SSP1-2.6,75,Invertebrate,biomass,1561189.63535802
+SSP1-2.6,76,Invertebrate,biomass,1571587.42777778
+SSP1-2.6,77,Invertebrate,biomass,1633527.57271605
+SSP1-2.6,78,Invertebrate,biomass,1595588.29123457
+SSP1-2.6,79,Invertebrate,biomass,1578337.92
+SSP1-2.6,80,Invertebrate,biomass,1597168.05314815
+SSP1-2.6,81,Invertebrate,biomass,1556104.53351852
+SSP1-2.6,82,Invertebrate,biomass,1553692.75345679
+SSP1-2.6,83,Invertebrate,biomass,1567400.78061728
+SSP1-2.6,84,Invertebrate,biomass,1570416.71481481
+SSP1-2.6,85,Invertebrate,biomass,1546569.71018519
+SSP1-2.6,86,Invertebrate,biomass,1590767.14864198
+SSP1-2.6,87,Invertebrate,biomass,1587976.16740741
+SSP1-2.6,88,Invertebrate,biomass,1561166.13080247
+SSP1-2.6,89,Invertebrate,biomass,1572912.5154321
+SSP1-2.6,90,Invertebrate,biomass,1554037.52320988
+SSP1-2.6,91,Invertebrate,biomass,1546153.82598765
+SSP1-2.6,92,Invertebrate,biomass,1622549.68975309
+SSP1-2.6,93,Invertebrate,biomass,1532575.6958642
+SSP1-2.6,94,Invertebrate,biomass,1576984.36476543
+SSP1-2.6,95,Invertebrate,biomass,1587450.24111111
+SSP1-2.6,96,Invertebrate,biomass,1612650.1391358
+SSP1-2.6,97,Invertebrate,biomass,1583696.6362963
+SSP1-2.6,98,Invertebrate,biomass,1590985.52950617
+SSP1-2.6,99,Invertebrate,biomass,1577782.43037037
+SSP1-2.6,100,Invertebrate,biomass,1573588.7662963
+SSP1-2.6,1,Mid-trophic species,biomass,2613673.43812593
+SSP1-2.6,2,Mid-trophic species,biomass,2516160.41211358
+SSP1-2.6,3,Mid-trophic species,biomass,2506851.10591852
+SSP1-2.6,4,Mid-trophic species,biomass,2567519.58170741
+SSP1-2.6,5,Mid-trophic species,biomass,2591268.05133951
+SSP1-2.6,6,Mid-trophic species,biomass,2539713.20541975
+SSP1-2.6,7,Mid-trophic species,biomass,2475572.29407654
+SSP1-2.6,8,Mid-trophic species,biomass,2545286.2624037
+SSP1-2.6,9,Mid-trophic species,biomass,2558133.80588765
+SSP1-2.6,10,Mid-trophic species,biomass,2580102.23590988
+SSP1-2.6,11,Mid-trophic species,biomass,2512055.08353704
+SSP1-2.6,12,Mid-trophic species,biomass,2527885.96968272
+SSP1-2.6,13,Mid-trophic species,biomass,2559477.22714444
+SSP1-2.6,14,Mid-trophic species,biomass,2564936.13819012
+SSP1-2.6,15,Mid-trophic species,biomass,2532146.76853333
+SSP1-2.6,16,Mid-trophic species,biomass,2521201.13055926
+SSP1-2.6,17,Mid-trophic species,biomass,2512848.09899506
+SSP1-2.6,18,Mid-trophic species,biomass,2521949.64807037
+SSP1-2.6,19,Mid-trophic species,biomass,2525139.55353086
+SSP1-2.6,20,Mid-trophic species,biomass,2468242.90233704
+SSP1-2.6,21,Mid-trophic species,biomass,2588662.95994679
+SSP1-2.6,22,Mid-trophic species,biomass,2490979.26079506
+SSP1-2.6,23,Mid-trophic species,biomass,2582703.6428037
+SSP1-2.6,24,Mid-trophic species,biomass,2480924.39648765
+SSP1-2.6,25,Mid-trophic species,biomass,2552812.37514938
+SSP1-2.6,26,Mid-trophic species,biomass,2488378.97201605
+SSP1-2.6,27,Mid-trophic species,biomass,2543034.01959667
+SSP1-2.6,28,Mid-trophic species,biomass,2553350.63590617
+SSP1-2.6,29,Mid-trophic species,biomass,2598111.12280864
+SSP1-2.6,30,Mid-trophic species,biomass,2551426.72781481
+SSP1-2.6,31,Mid-trophic species,biomass,2578929.14471062
+SSP1-2.6,32,Mid-trophic species,biomass,2577255.93161852
+SSP1-2.6,33,Mid-trophic species,biomass,2524971.04532099
+SSP1-2.6,34,Mid-trophic species,biomass,2452316.53030123
+SSP1-2.6,35,Mid-trophic species,biomass,2535247.33748765
+SSP1-2.6,36,Mid-trophic species,biomass,2511926.68104568
+SSP1-2.6,37,Mid-trophic species,biomass,2527071.10915926
+SSP1-2.6,38,Mid-trophic species,biomass,2507021.67813383
+SSP1-2.6,39,Mid-trophic species,biomass,2600503.55705679
+SSP1-2.6,40,Mid-trophic species,biomass,2538475.78037284
+SSP1-2.6,41,Mid-trophic species,biomass,2540166.94029012
+SSP1-2.6,42,Mid-trophic species,biomass,2619793.01677778
+SSP1-2.6,43,Mid-trophic species,biomass,2495224.65238272
+SSP1-2.6,44,Mid-trophic species,biomass,2546888.65063086
+SSP1-2.6,45,Mid-trophic species,biomass,2621482.56021802
+SSP1-2.6,46,Mid-trophic species,biomass,2526065.49349136
+SSP1-2.6,47,Mid-trophic species,biomass,2542408.1331642
+SSP1-2.6,48,Mid-trophic species,biomass,2587697.58618272
+SSP1-2.6,49,Mid-trophic species,biomass,2590702.19019877
+SSP1-2.6,50,Mid-trophic species,biomass,2503204.1914716
+SSP1-2.6,51,Mid-trophic species,biomass,2498310.72555185
+SSP1-2.6,52,Mid-trophic species,biomass,2545216.63746914
+SSP1-2.6,53,Mid-trophic species,biomass,2560085.64955062
+SSP1-2.6,54,Mid-trophic species,biomass,2526692.79425803
+SSP1-2.6,55,Mid-trophic species,biomass,2446073.29162173
+SSP1-2.6,56,Mid-trophic species,biomass,2516791.05647654
+SSP1-2.6,57,Mid-trophic species,biomass,2469086.6604642
+SSP1-2.6,58,Mid-trophic species,biomass,2488646.90378642
+SSP1-2.6,59,Mid-trophic species,biomass,2514879.45009296
+SSP1-2.6,60,Mid-trophic species,biomass,2522552.87283951
+SSP1-2.6,61,Mid-trophic species,biomass,2614412.80388395
+SSP1-2.6,62,Mid-trophic species,biomass,2530097.74271482
+SSP1-2.6,63,Mid-trophic species,biomass,2544360.45444074
+SSP1-2.6,64,Mid-trophic species,biomass,2488581.48639753
+SSP1-2.6,65,Mid-trophic species,biomass,2550860.90977778
+SSP1-2.6,66,Mid-trophic species,biomass,2579083.46192346
+SSP1-2.6,67,Mid-trophic species,biomass,2600017.82251481
+SSP1-2.6,68,Mid-trophic species,biomass,2555935.84082593
+SSP1-2.6,69,Mid-trophic species,biomass,2522177.58860988
+SSP1-2.6,70,Mid-trophic species,biomass,2519572.94687531
+SSP1-2.6,71,Mid-trophic species,biomass,2567748.07883333
+SSP1-2.6,72,Mid-trophic species,biomass,2607281.32010988
+SSP1-2.6,73,Mid-trophic species,biomass,2587168.20454074
+SSP1-2.6,74,Mid-trophic species,biomass,2592338.72322593
+SSP1-2.6,75,Mid-trophic species,biomass,2468558.70902222
+SSP1-2.6,76,Mid-trophic species,biomass,2473826.69863901
+SSP1-2.6,77,Mid-trophic species,biomass,2545940.88966296
+SSP1-2.6,78,Mid-trophic species,biomass,2558761.70756173
+SSP1-2.6,79,Mid-trophic species,biomass,2545950.40762963
+SSP1-2.6,80,Mid-trophic species,biomass,2600279.27049259
+SSP1-2.6,81,Mid-trophic species,biomass,2513204.53007531
+SSP1-2.6,82,Mid-trophic species,biomass,2556500.99933333
+SSP1-2.6,83,Mid-trophic species,biomass,2515170.56237901
+SSP1-2.6,84,Mid-trophic species,biomass,2550191.32565309
+SSP1-2.6,85,Mid-trophic species,biomass,2558157.85546914
+SSP1-2.6,86,Mid-trophic species,biomass,2493445.76040123
+SSP1-2.6,87,Mid-trophic species,biomass,2522976.27914568
+SSP1-2.6,88,Mid-trophic species,biomass,2510286.77512593
+SSP1-2.6,89,Mid-trophic species,biomass,2532126.88670617
+SSP1-2.6,90,Mid-trophic species,biomass,2564187.75240494
+SSP1-2.6,91,Mid-trophic species,biomass,2501598.68946049
+SSP1-2.6,92,Mid-trophic species,biomass,2506131.61781975
+SSP1-2.6,93,Mid-trophic species,biomass,2558413.28806543
+SSP1-2.6,94,Mid-trophic species,biomass,2556144.55063457
+SSP1-2.6,95,Mid-trophic species,biomass,2464906.4521358
+SSP1-2.6,96,Mid-trophic species,biomass,2577161.88691642
+SSP1-2.6,97,Mid-trophic species,biomass,2547628.79236543
+SSP1-2.6,98,Mid-trophic species,biomass,2482405.03327284
+SSP1-2.6,99,Mid-trophic species,biomass,2507300.04995926
+SSP1-2.6,100,Mid-trophic species,biomass,2498897.63933086
+SSP5-8.5,1,Prey,biomass,701574.402592592
+SSP5-8.5,2,Prey,biomass,739086.538888889
+SSP5-8.5,3,Prey,biomass,729257.167901235
+SSP5-8.5,4,Prey,biomass,745997.119012346
+SSP5-8.5,5,Prey,biomass,720783.599506173
+SSP5-8.5,6,Prey,biomass,747568.497160494
+SSP5-8.5,7,Prey,biomass,715656.800123457
+SSP5-8.5,8,Prey,biomass,737051.828765432
+SSP5-8.5,9,Prey,biomass,758938.582345679
+SSP5-8.5,10,Prey,biomass,755737.645185185
+SSP5-8.5,11,Prey,biomass,732769.549382716
+SSP5-8.5,12,Prey,biomass,739718.502962963
+SSP5-8.5,13,Prey,biomass,732495.512222222
+SSP5-8.5,14,Prey,biomass,754643.819629629
+SSP5-8.5,15,Prey,biomass,746414.722839506
+SSP5-8.5,16,Prey,biomass,712893.137037037
+SSP5-8.5,17,Prey,biomass,755981.77691358
+SSP5-8.5,18,Prey,biomass,708340.765679012
+SSP5-8.5,19,Prey,biomass,749688.572469136
+SSP5-8.5,20,Prey,biomass,715865.128641975
+SSP5-8.5,21,Prey,biomass,741554.061604938
+SSP5-8.5,22,Prey,biomass,771824.570740741
+SSP5-8.5,23,Prey,biomass,721552.63691358
+SSP5-8.5,24,Prey,biomass,727544.416790123
+SSP5-8.5,25,Prey,biomass,739398.877901235
+SSP5-8.5,26,Prey,biomass,737330.379876543
+SSP5-8.5,27,Prey,biomass,744248.094197531
+SSP5-8.5,28,Prey,biomass,744006.963827161
+SSP5-8.5,29,Prey,biomass,743127.297283951
+SSP5-8.5,30,Prey,biomass,767139.875802469
+SSP5-8.5,31,Prey,biomass,728972.296296296
+SSP5-8.5,32,Prey,biomass,736017.73382716
+SSP5-8.5,33,Prey,biomass,718258.159135803
+SSP5-8.5,34,Prey,biomass,739634.221481482
+SSP5-8.5,35,Prey,biomass,714047.827407408
+SSP5-8.5,36,Prey,biomass,745593.522222222
+SSP5-8.5,37,Prey,biomass,753461.22308642
+SSP5-8.5,38,Prey,biomass,719444.288765432
+SSP5-8.5,39,Prey,biomass,736253.024074074
+SSP5-8.5,40,Prey,biomass,731095.659382716
+SSP5-8.5,41,Prey,biomass,742299.590493827
+SSP5-8.5,42,Prey,biomass,738183.322345679
+SSP5-8.5,43,Prey,biomass,711221.187901235
+SSP5-8.5,44,Prey,biomass,754844.727160494
+SSP5-8.5,45,Prey,biomass,716684.564197531
+SSP5-8.5,46,Prey,biomass,736031.721851852
+SSP5-8.5,47,Prey,biomass,718408.727037037
+SSP5-8.5,48,Prey,biomass,746734.486790123
+SSP5-8.5,49,Prey,biomass,804650.733333333
+SSP5-8.5,50,Prey,biomass,731250.86925926
+SSP5-8.5,51,Prey,biomass,758898.198765432
+SSP5-8.5,52,Prey,biomass,734399.801604938
+SSP5-8.5,53,Prey,biomass,734818.665061728
+SSP5-8.5,54,Prey,biomass,699347.605802469
+SSP5-8.5,55,Prey,biomass,746309.201728395
+SSP5-8.5,56,Prey,biomass,718890.49271605
+SSP5-8.5,57,Prey,biomass,758517.663209876
+SSP5-8.5,58,Prey,biomass,758916.734320988
+SSP5-8.5,59,Prey,biomass,755491.295308642
+SSP5-8.5,60,Prey,biomass,714090.962345679
+SSP5-8.5,61,Prey,biomass,742161.615925926
+SSP5-8.5,62,Prey,biomass,754325.56
+SSP5-8.5,63,Prey,biomass,737509.431111111
+SSP5-8.5,64,Prey,biomass,715930.317407407
+SSP5-8.5,65,Prey,biomass,757655.149506173
+SSP5-8.5,66,Prey,biomass,714132.002222222
+SSP5-8.5,67,Prey,biomass,752622.395679013
+SSP5-8.5,68,Prey,biomass,744212.200493827
+SSP5-8.5,69,Prey,biomass,775205.697037037
+SSP5-8.5,70,Prey,biomass,760254.870987654
+SSP5-8.5,71,Prey,biomass,750939.567777778
+SSP5-8.5,72,Prey,biomass,721194.460987654
+SSP5-8.5,73,Prey,biomass,773678.268518519
+SSP5-8.5,74,Prey,biomass,709298.962222222
+SSP5-8.5,75,Prey,biomass,720488.519382716
+SSP5-8.5,76,Prey,biomass,707129.763580247
+SSP5-8.5,77,Prey,biomass,747797.102592592
+SSP5-8.5,78,Prey,biomass,770657.931975308
+SSP5-8.5,79,Prey,biomass,750560.519753087
+SSP5-8.5,80,Prey,biomass,718995.870123457
+SSP5-8.5,81,Prey,biomass,703051.248518519
+SSP5-8.5,82,Prey,biomass,730445.972839506
+SSP5-8.5,83,Prey,biomass,718011.888765432
+SSP5-8.5,84,Prey,biomass,715823.325802469
+SSP5-8.5,85,Prey,biomass,741769.846049383
+SSP5-8.5,86,Prey,biomass,713868.098395062
+SSP5-8.5,87,Prey,biomass,730816.368518519
+SSP5-8.5,88,Prey,biomass,730562.417654321
+SSP5-8.5,89,Prey,biomass,740516.467160494
+SSP5-8.5,90,Prey,biomass,780736.833827161
+SSP5-8.5,91,Prey,biomass,742895.829876543
+SSP5-8.5,92,Prey,biomass,773509.370617284
+SSP5-8.5,93,Prey,biomass,733239.925185185
+SSP5-8.5,94,Prey,biomass,750092.633209876
+SSP5-8.5,95,Prey,biomass,747854.381358025
+SSP5-8.5,96,Prey,biomass,728636.488765432
+SSP5-8.5,97,Prey,biomass,731913.349506173
+SSP5-8.5,98,Prey,biomass,717907.61654321
+SSP5-8.5,99,Prey,biomass,754114.699506173
+SSP5-8.5,100,Prey,biomass,762825.815925926
+SSP5-8.5,1,Predator,biomass,2493738.2687037
+SSP5-8.5,2,Predator,biomass,2505795.89660494
+SSP5-8.5,3,Predator,biomass,2551186.3301358
+SSP5-8.5,4,Predator,biomass,2552802.14051852
+SSP5-8.5,5,Predator,biomass,2544046.97791358
+SSP5-8.5,6,Predator,biomass,2578339.52432099
+SSP5-8.5,7,Predator,biomass,2540686.58807407
+SSP5-8.5,8,Predator,biomass,2516464.14359259
+SSP5-8.5,9,Predator,biomass,2530867.83785185
+SSP5-8.5,10,Predator,biomass,2518869.27344444
+SSP5-8.5,11,Predator,biomass,2602197.36935802
+SSP5-8.5,12,Predator,biomass,2534006.29464198
+SSP5-8.5,13,Predator,biomass,2546153.75706173
+SSP5-8.5,14,Predator,biomass,2492732.97417284
+SSP5-8.5,15,Predator,biomass,2489402.3771358
+SSP5-8.5,16,Predator,biomass,2544335.56037037
+SSP5-8.5,17,Predator,biomass,2527619.63445679
+SSP5-8.5,18,Predator,biomass,2510821.67593827
+SSP5-8.5,19,Predator,biomass,2561624.11545679
+SSP5-8.5,20,Predator,biomass,2512972.80087654
+SSP5-8.5,21,Predator,biomass,2464793.17054321
+SSP5-8.5,22,Predator,biomass,2499830.32012346
+SSP5-8.5,23,Predator,biomass,2524479.01966667
+SSP5-8.5,24,Predator,biomass,2464458.21341975
+SSP5-8.5,25,Predator,biomass,2542157.03932099
+SSP5-8.5,26,Predator,biomass,2571173.45191358
+SSP5-8.5,27,Predator,biomass,2505816.84614815
+SSP5-8.5,28,Predator,biomass,2526310.1667037
+SSP5-8.5,29,Predator,biomass,2547744.65554321
+SSP5-8.5,30,Predator,biomass,2528283.01137037
+SSP5-8.5,31,Predator,biomass,2558247.15576543
+SSP5-8.5,32,Predator,biomass,2541362.16833333
+SSP5-8.5,33,Predator,biomass,2544302.56167901
+SSP5-8.5,34,Predator,biomass,2474618.71682716
+SSP5-8.5,35,Predator,biomass,2518820.40803704
+SSP5-8.5,36,Predator,biomass,2502558.08907408
+SSP5-8.5,37,Predator,biomass,2523453.04391358
+SSP5-8.5,38,Predator,biomass,2472843.60564198
+SSP5-8.5,39,Predator,biomass,2511780.75135802
+SSP5-8.5,40,Predator,biomass,2521217.03271605
+SSP5-8.5,41,Predator,biomass,2506948.61882716
+SSP5-8.5,42,Predator,biomass,2564633.39971605
+SSP5-8.5,43,Predator,biomass,2591786.44506173
+SSP5-8.5,44,Predator,biomass,2543252.303
+SSP5-8.5,45,Predator,biomass,2551097.49207408
+SSP5-8.5,46,Predator,biomass,2527468.25640741
+SSP5-8.5,47,Predator,biomass,2509287.23108642
+SSP5-8.5,48,Predator,biomass,2544374.41406173
+SSP5-8.5,49,Predator,biomass,2523899.13016049
+SSP5-8.5,50,Predator,biomass,2576799.71792593
+SSP5-8.5,51,Predator,biomass,2535892.25628395
+SSP5-8.5,52,Predator,biomass,2535529.37496296
+SSP5-8.5,53,Predator,biomass,2586319.84220988
+SSP5-8.5,54,Predator,biomass,2495091.92309877
+SSP5-8.5,55,Predator,biomass,2488845.42944444
+SSP5-8.5,56,Predator,biomass,2517692.90988889
+SSP5-8.5,57,Predator,biomass,2540286.61695062
+SSP5-8.5,58,Predator,biomass,2510969.07224691
+SSP5-8.5,59,Predator,biomass,2476130.72398765
+SSP5-8.5,60,Predator,biomass,2467398.64107407
+SSP5-8.5,61,Predator,biomass,2526672.59630864
+SSP5-8.5,62,Predator,biomass,2548609.91622222
+SSP5-8.5,63,Predator,biomass,2536695.49993827
+SSP5-8.5,64,Predator,biomass,2537690.99682716
+SSP5-8.5,65,Predator,biomass,2536078.65897531
+SSP5-8.5,66,Predator,biomass,2543199.30618519
+SSP5-8.5,67,Predator,biomass,2466489.53924691
+SSP5-8.5,68,Predator,biomass,2458120.67741975
+SSP5-8.5,69,Predator,biomass,2489612.93248148
+SSP5-8.5,70,Predator,biomass,2571623.4028642
+SSP5-8.5,71,Predator,biomass,2559026.529
+SSP5-8.5,72,Predator,biomass,2513478.15895062
+SSP5-8.5,73,Predator,biomass,2564590.36176543
+SSP5-8.5,74,Predator,biomass,2556619.10267901
+SSP5-8.5,75,Predator,biomass,2493251.9148642
+SSP5-8.5,76,Predator,biomass,2555670.94583951
+SSP5-8.5,77,Predator,biomass,2601457.10716049
+SSP5-8.5,78,Predator,biomass,2573875.00508642
+SSP5-8.5,79,Predator,biomass,2594476.18620988
+SSP5-8.5,80,Predator,biomass,2446310.82817284
+SSP5-8.5,81,Predator,biomass,2532011.72716049
+SSP5-8.5,82,Predator,biomass,2529407.66796296
+SSP5-8.5,83,Predator,biomass,2517658.95041975
+SSP5-8.5,84,Predator,biomass,2486048.85034568
+SSP5-8.5,85,Predator,biomass,2543483.78795062
+SSP5-8.5,86,Predator,biomass,2521378.07880247
+SSP5-8.5,87,Predator,biomass,2505563.04433333
+SSP5-8.5,88,Predator,biomass,2606312.86198766
+SSP5-8.5,89,Predator,biomass,2511776.48432099
+SSP5-8.5,90,Predator,biomass,2454474.0064321
+SSP5-8.5,91,Predator,biomass,2589056.85930864
+SSP5-8.5,92,Predator,biomass,2497054.12702469
+SSP5-8.5,93,Predator,biomass,2499780.85138272
+SSP5-8.5,94,Predator,biomass,2537211.60228395
+SSP5-8.5,95,Predator,biomass,2546099.038
+SSP5-8.5,96,Predator,biomass,2490601.31191358
+SSP5-8.5,97,Predator,biomass,2535506.35012346
+SSP5-8.5,98,Predator,biomass,2493961.99612346
+SSP5-8.5,99,Predator,biomass,2510913.50367901
+SSP5-8.5,100,Predator,biomass,2486492.72717284
+SSP5-8.5,1,Invertebrate,biomass,1578749.19469136
+SSP5-8.5,2,Invertebrate,biomass,1588077.8822963
+SSP5-8.5,3,Invertebrate,biomass,1545310.10839506
+SSP5-8.5,4,Invertebrate,biomass,1587370.79123457
+SSP5-8.5,5,Invertebrate,biomass,1621682.89716049
+SSP5-8.5,6,Invertebrate,biomass,1585340.45075309
+SSP5-8.5,7,Invertebrate,biomass,1616754.395
+SSP5-8.5,8,Invertebrate,biomass,1584471.5954321
+SSP5-8.5,9,Invertebrate,biomass,1546022.21711111
+SSP5-8.5,10,Invertebrate,biomass,1584397.18530864
+SSP5-8.5,11,Invertebrate,biomass,1561253.34135802
+SSP5-8.5,12,Invertebrate,biomass,1582166.35634568
+SSP5-8.5,13,Invertebrate,biomass,1634973.16382716
+SSP5-8.5,14,Invertebrate,biomass,1523184.8162963
+SSP5-8.5,15,Invertebrate,biomass,1634010.5745679
+SSP5-8.5,16,Invertebrate,biomass,1658451.62962963
+SSP5-8.5,17,Invertebrate,biomass,1566491.64691358
+SSP5-8.5,18,Invertebrate,biomass,1567460.47308642
+SSP5-8.5,19,Invertebrate,biomass,1609625.72190123
+SSP5-8.5,20,Invertebrate,biomass,1606641.60407407
+SSP5-8.5,21,Invertebrate,biomass,1573079.2137037
+SSP5-8.5,22,Invertebrate,biomass,1584233.27901235
+SSP5-8.5,23,Invertebrate,biomass,1601617.44048148
+SSP5-8.5,24,Invertebrate,biomass,1551652.66362963
+SSP5-8.5,25,Invertebrate,biomass,1595225.6245679
+SSP5-8.5,26,Invertebrate,biomass,1574749.4208642
+SSP5-8.5,27,Invertebrate,biomass,1599934.21567901
+SSP5-8.5,28,Invertebrate,biomass,1546308.75574074
+SSP5-8.5,29,Invertebrate,biomass,1591758.89432099
+SSP5-8.5,30,Invertebrate,biomass,1576265.9685679
+SSP5-8.5,31,Invertebrate,biomass,1591354.83316049
+SSP5-8.5,32,Invertebrate,biomass,1609328.37024691
+SSP5-8.5,33,Invertebrate,biomass,1582120.19925926
+SSP5-8.5,34,Invertebrate,biomass,1571518.22740741
+SSP5-8.5,35,Invertebrate,biomass,1609738.29871605
+SSP5-8.5,36,Invertebrate,biomass,1543510.0864321
+SSP5-8.5,37,Invertebrate,biomass,1592337.95641975
+SSP5-8.5,38,Invertebrate,biomass,1530348.26160494
+SSP5-8.5,39,Invertebrate,biomass,1562217.63790123
+SSP5-8.5,40,Invertebrate,biomass,1569679.53092593
+SSP5-8.5,41,Invertebrate,biomass,1509976.71827161
+SSP5-8.5,42,Invertebrate,biomass,1550546.17641975
+SSP5-8.5,43,Invertebrate,biomass,1546106.02795062
+SSP5-8.5,44,Invertebrate,biomass,1619698.45666667
+SSP5-8.5,45,Invertebrate,biomass,1600587.52876543
+SSP5-8.5,46,Invertebrate,biomass,1580633.43111111
+SSP5-8.5,47,Invertebrate,biomass,1559739.99703704
+SSP5-8.5,48,Invertebrate,biomass,1600074.30246914
+SSP5-8.5,49,Invertebrate,biomass,1591522.19975309
+SSP5-8.5,50,Invertebrate,biomass,1593374.74666667
+SSP5-8.5,51,Invertebrate,biomass,1584611.09111111
+SSP5-8.5,52,Invertebrate,biomass,1545020.63383951
+SSP5-8.5,53,Invertebrate,biomass,1591063.79419753
+SSP5-8.5,54,Invertebrate,biomass,1575539.2422716
+SSP5-8.5,55,Invertebrate,biomass,1601636.42382716
+SSP5-8.5,56,Invertebrate,biomass,1565558.43876543
+SSP5-8.5,57,Invertebrate,biomass,1573446.18641975
+SSP5-8.5,58,Invertebrate,biomass,1603381.88683951
+SSP5-8.5,59,Invertebrate,biomass,1617336.0437037
+SSP5-8.5,60,Invertebrate,biomass,1592474.1991358
+SSP5-8.5,61,Invertebrate,biomass,1579966.43111111
+SSP5-8.5,62,Invertebrate,biomass,1564050.32765432
+SSP5-8.5,63,Invertebrate,biomass,1635038.32950617
+SSP5-8.5,64,Invertebrate,biomass,1553625.31955556
+SSP5-8.5,65,Invertebrate,biomass,1624392.29061728
+SSP5-8.5,66,Invertebrate,biomass,1571964.63895062
+SSP5-8.5,67,Invertebrate,biomass,1552189.89802469
+SSP5-8.5,68,Invertebrate,biomass,1641850.62654321
+SSP5-8.5,69,Invertebrate,biomass,1551983.5982716
+SSP5-8.5,70,Invertebrate,biomass,1513269.96362963
+SSP5-8.5,71,Invertebrate,biomass,1556778.52592593
+SSP5-8.5,72,Invertebrate,biomass,1606916.75395062
+SSP5-8.5,73,Invertebrate,biomass,1582791.62137037
+SSP5-8.5,74,Invertebrate,biomass,1622557.64185185
+SSP5-8.5,75,Invertebrate,biomass,1637076.73160494
+SSP5-8.5,76,Invertebrate,biomass,1659406.22814815
+SSP5-8.5,77,Invertebrate,biomass,1616477.4937037
+SSP5-8.5,78,Invertebrate,biomass,1615160.5232716
+SSP5-8.5,79,Invertebrate,biomass,1617195.0362963
+SSP5-8.5,80,Invertebrate,biomass,1570587.13493827
+SSP5-8.5,81,Invertebrate,biomass,1639927.63469136
+SSP5-8.5,82,Invertebrate,biomass,1613935.12671605
+SSP5-8.5,83,Invertebrate,biomass,1607520.36432099
+SSP5-8.5,84,Invertebrate,biomass,1583641.2622716
+SSP5-8.5,85,Invertebrate,biomass,1544324.20176543
+SSP5-8.5,86,Invertebrate,biomass,1609524.6145679
+SSP5-8.5,87,Invertebrate,biomass,1581538.61296296
+SSP5-8.5,88,Invertebrate,biomass,1589442.53135803
+SSP5-8.5,89,Invertebrate,biomass,1612258.45728395
+SSP5-8.5,90,Invertebrate,biomass,1640392.39735802
+SSP5-8.5,91,Invertebrate,biomass,1601630.20437037
+SSP5-8.5,92,Invertebrate,biomass,1574852.68567901
+SSP5-8.5,93,Invertebrate,biomass,1623520.22395062
+SSP5-8.5,94,Invertebrate,biomass,1602144.42469136
+SSP5-8.5,95,Invertebrate,biomass,1615348.56728395
+SSP5-8.5,96,Invertebrate,biomass,1491856.8737037
+SSP5-8.5,97,Invertebrate,biomass,1569005.11018519
+SSP5-8.5,98,Invertebrate,biomass,1602861.76160494
+SSP5-8.5,99,Invertebrate,biomass,1549101.03511111
+SSP5-8.5,100,Invertebrate,biomass,1561167.05046914
+SSP5-8.5,1,Mid-trophic species,biomass,2659953.04688519
+SSP5-8.5,2,Mid-trophic species,biomass,2625525.55210741
+SSP5-8.5,3,Mid-trophic species,biomass,2536815.52462099
+SSP5-8.5,4,Mid-trophic species,biomass,2698919.05613407
+SSP5-8.5,5,Mid-trophic species,biomass,2634943.07188395
+SSP5-8.5,6,Mid-trophic species,biomass,2588169.61888827
+SSP5-8.5,7,Mid-trophic species,biomass,2597621.74897531
+SSP5-8.5,8,Mid-trophic species,biomass,2637181.1261321
+SSP5-8.5,9,Mid-trophic species,biomass,2668943.83683951
+SSP5-8.5,10,Mid-trophic species,biomass,2671516.90096296
+SSP5-8.5,11,Mid-trophic species,biomass,2646528.04102716
+SSP5-8.5,12,Mid-trophic species,biomass,2621975.9093642
+SSP5-8.5,13,Mid-trophic species,biomass,2681609.61522086
+SSP5-8.5,14,Mid-trophic species,biomass,2657240.17372099
+SSP5-8.5,15,Mid-trophic species,biomass,2599730.4543642
+SSP5-8.5,16,Mid-trophic species,biomass,2598708.01736407
+SSP5-8.5,17,Mid-trophic species,biomass,2649058.14691482
+SSP5-8.5,18,Mid-trophic species,biomass,2605528.01917901
+SSP5-8.5,19,Mid-trophic species,biomass,2579744.4136679
+SSP5-8.5,20,Mid-trophic species,biomass,2621054.42780284
+SSP5-8.5,21,Mid-trophic species,biomass,2673598.33986049
+SSP5-8.5,22,Mid-trophic species,biomass,2656034.90430617
+SSP5-8.5,23,Mid-trophic species,biomass,2711054.16064765
+SSP5-8.5,24,Mid-trophic species,biomass,2592204.66899876
+SSP5-8.5,25,Mid-trophic species,biomass,2634388.20827457
+SSP5-8.5,26,Mid-trophic species,biomass,2567182.2680358
+SSP5-8.5,27,Mid-trophic species,biomass,2613975.14798519
+SSP5-8.5,28,Mid-trophic species,biomass,2599234.83123457
+SSP5-8.5,29,Mid-trophic species,biomass,2612945.95783704
+SSP5-8.5,30,Mid-trophic species,biomass,2697661.84207778
+SSP5-8.5,31,Mid-trophic species,biomass,2555169.24515802
+SSP5-8.5,32,Mid-trophic species,biomass,2656091.0204
+SSP5-8.5,33,Mid-trophic species,biomass,2603118.77617037
+SSP5-8.5,34,Mid-trophic species,biomass,2594386.73848642
+SSP5-8.5,35,Mid-trophic species,biomass,2591435.45924321
+SSP5-8.5,36,Mid-trophic species,biomass,2655655.64778519
+SSP5-8.5,37,Mid-trophic species,biomass,2634064.79920247
+SSP5-8.5,38,Mid-trophic species,biomass,2750851.43237407
+SSP5-8.5,39,Mid-trophic species,biomass,2636825.87711358
+SSP5-8.5,40,Mid-trophic species,biomass,2580852.2537679
+SSP5-8.5,41,Mid-trophic species,biomass,2656233.03132222
+SSP5-8.5,42,Mid-trophic species,biomass,2616144.20115062
+SSP5-8.5,43,Mid-trophic species,biomass,2731001.41158025
+SSP5-8.5,44,Mid-trophic species,biomass,2580711.92605062
+SSP5-8.5,45,Mid-trophic species,biomass,2586688.11672099
+SSP5-8.5,46,Mid-trophic species,biomass,2600756.15805679
+SSP5-8.5,47,Mid-trophic species,biomass,2706600.39288025
+SSP5-8.5,48,Mid-trophic species,biomass,2589558.95802716
+SSP5-8.5,49,Mid-trophic species,biomass,2592635.16979383
+SSP5-8.5,50,Mid-trophic species,biomass,2563670.26100432
+SSP5-8.5,51,Mid-trophic species,biomass,2669036.99552099
+SSP5-8.5,52,Mid-trophic species,biomass,2616219.64145556
+SSP5-8.5,53,Mid-trophic species,biomass,2636335.3562358
+SSP5-8.5,54,Mid-trophic species,biomass,2645935.43246037
+SSP5-8.5,55,Mid-trophic species,biomass,2636902.23744321
+SSP5-8.5,56,Mid-trophic species,biomass,2592265.79727778
+SSP5-8.5,57,Mid-trophic species,biomass,2677771.27748642
+SSP5-8.5,58,Mid-trophic species,biomass,2576099.45381482
+SSP5-8.5,59,Mid-trophic species,biomass,2642667.08281852
+SSP5-8.5,60,Mid-trophic species,biomass,2625458.35859383
+SSP5-8.5,61,Mid-trophic species,biomass,2639324.24420988
+SSP5-8.5,62,Mid-trophic species,biomass,2578424.32945309
+SSP5-8.5,63,Mid-trophic species,biomass,2596990.29194815
+SSP5-8.5,64,Mid-trophic species,biomass,2625096.80626296
+SSP5-8.5,65,Mid-trophic species,biomass,2558454.47374321
+SSP5-8.5,66,Mid-trophic species,biomass,2611417.94081852
+SSP5-8.5,67,Mid-trophic species,biomass,2602119.18464691
+SSP5-8.5,68,Mid-trophic species,biomass,2621677.58955062
+SSP5-8.5,69,Mid-trophic species,biomass,2682050.14540988
+SSP5-8.5,70,Mid-trophic species,biomass,2615488.79720494
+SSP5-8.5,71,Mid-trophic species,biomass,2627740.33077531
+SSP5-8.5,72,Mid-trophic species,biomass,2757357.26867037
+SSP5-8.5,73,Mid-trophic species,biomass,2500765.37153901
+SSP5-8.5,74,Mid-trophic species,biomass,2583772.68582099
+SSP5-8.5,75,Mid-trophic species,biomass,2590353.56107037
+SSP5-8.5,76,Mid-trophic species,biomass,2631818.88204457
+SSP5-8.5,77,Mid-trophic species,biomass,2595418.86794938
+SSP5-8.5,78,Mid-trophic species,biomass,2584815.44487778
+SSP5-8.5,79,Mid-trophic species,biomass,2566618.45486975
+SSP5-8.5,80,Mid-trophic species,biomass,2687352.20113333
+SSP5-8.5,81,Mid-trophic species,biomass,2595778.95431111
+SSP5-8.5,82,Mid-trophic species,biomass,2683316.77725963
+SSP5-8.5,83,Mid-trophic species,biomass,2639517.48469259
+SSP5-8.5,84,Mid-trophic species,biomass,2631192.0976037
+SSP5-8.5,85,Mid-trophic species,biomass,2577507.3002284
+SSP5-8.5,86,Mid-trophic species,biomass,2625486.93960124
+SSP5-8.5,87,Mid-trophic species,biomass,2609169.53575062
+SSP5-8.5,88,Mid-trophic species,biomass,2650490.88581482
+SSP5-8.5,89,Mid-trophic species,biomass,2571778.13212469
+SSP5-8.5,90,Mid-trophic species,biomass,2653876.80090247
+SSP5-8.5,91,Mid-trophic species,biomass,2628649.58084938
+SSP5-8.5,92,Mid-trophic species,biomass,2717674.22149383
+SSP5-8.5,93,Mid-trophic species,biomass,2576761.76419136
+SSP5-8.5,94,Mid-trophic species,biomass,2613019.68925432
+SSP5-8.5,95,Mid-trophic species,biomass,2665604.67112469
+SSP5-8.5,96,Mid-trophic species,biomass,2663466.64076667
+SSP5-8.5,97,Mid-trophic species,biomass,2602576.45274691
+SSP5-8.5,98,Mid-trophic species,biomass,2663990.63097531
+SSP5-8.5,99,Mid-trophic species,biomass,2657918.49074815
+SSP5-8.5,100,Mid-trophic species,biomass,2688218.66021481
+Base,1,Prey,yield,165368.8017
+Base,2,Prey,yield,156524.6556
+Base,3,Prey,yield,150749.414666667
+Base,4,Prey,yield,166508.174333333
+Base,5,Prey,yield,149797.513333333
+Base,6,Prey,yield,159023.597666667
+Base,7,Prey,yield,156238.2222
+Base,8,Prey,yield,141853.8152
+Base,9,Prey,yield,149451.877933333
+Base,10,Prey,yield,158973.109333333
+Base,11,Prey,yield,165299.011333333
+Base,12,Prey,yield,159589.458
+Base,13,Prey,yield,154171.042666667
+Base,14,Prey,yield,163710.176166667
+Base,15,Prey,yield,165053.719333333
+Base,16,Prey,yield,148816.299366667
+Base,17,Prey,yield,157591.849833333
+Base,18,Prey,yield,155021.555666667
+Base,19,Prey,yield,159819.567
+Base,20,Prey,yield,164510.936666667
+Base,21,Prey,yield,165897.824666667
+Base,22,Prey,yield,147187.2568
+Base,23,Prey,yield,158376.016366667
+Base,24,Prey,yield,159507.57
+Base,25,Prey,yield,168864.234666667
+Base,26,Prey,yield,151662.187233333
+Base,27,Prey,yield,157484.55
+Base,28,Prey,yield,160806.751333333
+Base,29,Prey,yield,152571.227166667
+Base,30,Prey,yield,153224.540333333
+Base,31,Prey,yield,157825.934566667
+Base,32,Prey,yield,155034.355
+Base,33,Prey,yield,163220.853666667
+Base,34,Prey,yield,162706.576333333
+Base,35,Prey,yield,165710.003666667
+Base,36,Prey,yield,154488.886533333
+Base,37,Prey,yield,154751.501166667
+Base,38,Prey,yield,158789.257666667
+Base,39,Prey,yield,163115.757
+Base,40,Prey,yield,152687.199666667
+Base,41,Prey,yield,167644.348
+Base,42,Prey,yield,159565.884333333
+Base,43,Prey,yield,156786.888133333
+Base,44,Prey,yield,152813.789333333
+Base,45,Prey,yield,160514.685666667
+Base,46,Prey,yield,161756.416666667
+Base,47,Prey,yield,150054.842
+Base,48,Prey,yield,153574.832
+Base,49,Prey,yield,156457.238
+Base,50,Prey,yield,162207.977
+Base,51,Prey,yield,158814.517166667
+Base,52,Prey,yield,152678.983333333
+Base,53,Prey,yield,149577.107133333
+Base,54,Prey,yield,151843.505466667
+Base,55,Prey,yield,154459.175666667
+Base,56,Prey,yield,148535.920866667
+Base,57,Prey,yield,169684.655333333
+Base,58,Prey,yield,162717.507866667
+Base,59,Prey,yield,158735.4985
+Base,60,Prey,yield,162993.372166667
+Base,61,Prey,yield,161307.276666667
+Base,62,Prey,yield,164917.654166667
+Base,63,Prey,yield,146690.209866667
+Base,64,Prey,yield,161010.724866667
+Base,65,Prey,yield,152805.792833333
+Base,66,Prey,yield,161309.183333333
+Base,67,Prey,yield,152433.7105
+Base,68,Prey,yield,165685.517
+Base,69,Prey,yield,160600.956
+Base,70,Prey,yield,161568.1705
+Base,71,Prey,yield,169898.142
+Base,72,Prey,yield,150203.911533333
+Base,73,Prey,yield,152890.350166667
+Base,74,Prey,yield,157477.555966667
+Base,75,Prey,yield,159775.494666667
+Base,76,Prey,yield,149750.059966667
+Base,77,Prey,yield,145790.524333333
+Base,78,Prey,yield,163307.182166667
+Base,79,Prey,yield,160671.2995
+Base,80,Prey,yield,158208.9643
+Base,81,Prey,yield,151713.289066667
+Base,82,Prey,yield,153807.008333333
+Base,83,Prey,yield,149942.044333333
+Base,84,Prey,yield,158643.3297
+Base,85,Prey,yield,155017.017
+Base,86,Prey,yield,166818.624333333
+Base,87,Prey,yield,157932.841333333
+Base,88,Prey,yield,155105.914
+Base,89,Prey,yield,162363.265966667
+Base,90,Prey,yield,162988.0775
+Base,91,Prey,yield,163708.948
+Base,92,Prey,yield,151609.346
+Base,93,Prey,yield,158348.622433333
+Base,94,Prey,yield,160137.292866667
+Base,95,Prey,yield,159428.045533333
+Base,96,Prey,yield,142405.8636
+Base,97,Prey,yield,160351.487333333
+Base,98,Prey,yield,168065.605
+Base,99,Prey,yield,162621.983
+Base,100,Prey,yield,157508.417
+Base,1,Predator,yield,429078.569566667
+Base,2,Predator,yield,422532.414566667
+Base,3,Predator,yield,430167.710233333
+Base,4,Predator,yield,432446.664466667
+Base,5,Predator,yield,430443.436033333
+Base,6,Predator,yield,437580.164366667
+Base,7,Predator,yield,432203.040266667
+Base,8,Predator,yield,426950.970333334
+Base,9,Predator,yield,429261.148266667
+Base,10,Predator,yield,432331.655966667
+Base,11,Predator,yield,428885.6185
+Base,12,Predator,yield,424539.382456667
+Base,13,Predator,yield,433521.4118
+Base,14,Predator,yield,443416.1082
+Base,15,Predator,yield,444381.477766667
+Base,16,Predator,yield,441062.0147
+Base,17,Predator,yield,431481.7914
+Base,18,Predator,yield,423788.566766667
+Base,19,Predator,yield,439289.6537
+Base,20,Predator,yield,424239.9538
+Base,21,Predator,yield,425508.189633333
+Base,22,Predator,yield,426533.8503
+Base,23,Predator,yield,423537.0628
+Base,24,Predator,yield,428891.272533333
+Base,25,Predator,yield,418861.544966667
+Base,26,Predator,yield,428069.602833333
+Base,27,Predator,yield,428628.042933333
+Base,28,Predator,yield,431657.715616667
+Base,29,Predator,yield,433038.354366667
+Base,30,Predator,yield,423527.204466667
+Base,31,Predator,yield,425097.494
+Base,32,Predator,yield,442126.8582
+Base,33,Predator,yield,439765.319266667
+Base,34,Predator,yield,429317.980966667
+Base,35,Predator,yield,453030.9088
+Base,36,Predator,yield,425244.448733333
+Base,37,Predator,yield,431452.942133333
+Base,38,Predator,yield,438766.5406
+Base,39,Predator,yield,439903.4029
+Base,40,Predator,yield,422822.0921
+Base,41,Predator,yield,420674.2046
+Base,42,Predator,yield,417900.7327
+Base,43,Predator,yield,423370.5981
+Base,44,Predator,yield,426971.269666667
+Base,45,Predator,yield,428057.226033333
+Base,46,Predator,yield,427312.139566667
+Base,47,Predator,yield,425092.4826
+Base,48,Predator,yield,445226.8205
+Base,49,Predator,yield,430738.9914
+Base,50,Predator,yield,435838.8929
+Base,51,Predator,yield,446723.990233333
+Base,52,Predator,yield,430995.520366667
+Base,53,Predator,yield,422680.015933333
+Base,54,Predator,yield,425977.8389
+Base,55,Predator,yield,432466.731733333
+Base,56,Predator,yield,439668.643966667
+Base,57,Predator,yield,433990.90315
+Base,58,Predator,yield,439768.578566667
+Base,59,Predator,yield,430101.498733333
+Base,60,Predator,yield,424304.129366667
+Base,61,Predator,yield,426008.4418
+Base,62,Predator,yield,416313.689233333
+Base,63,Predator,yield,420017.806433333
+Base,64,Predator,yield,454232.8034
+Base,65,Predator,yield,444857.395866667
+Base,66,Predator,yield,432582.938733333
+Base,67,Predator,yield,442117.92205
+Base,68,Predator,yield,436292.394933333
+Base,69,Predator,yield,443676.067833333
+Base,70,Predator,yield,432402.2091
+Base,71,Predator,yield,419680.265766667
+Base,72,Predator,yield,427253.581433333
+Base,73,Predator,yield,427112.727233333
+Base,74,Predator,yield,431630.508266667
+Base,75,Predator,yield,442188.193233333
+Base,76,Predator,yield,435764.5483
+Base,77,Predator,yield,428737.852366667
+Base,78,Predator,yield,439128.1463
+Base,79,Predator,yield,433844.141383333
+Base,80,Predator,yield,432040.769666667
+Base,81,Predator,yield,423354.2213
+Base,82,Predator,yield,432868.058666667
+Base,83,Predator,yield,425932.7197
+Base,84,Predator,yield,421037.301866667
+Base,85,Predator,yield,434679.745466667
+Base,86,Predator,yield,443952.147333333
+Base,87,Predator,yield,431024.6758
+Base,88,Predator,yield,421369.612933333
+Base,89,Predator,yield,428993.987033333
+Base,90,Predator,yield,454470.596066667
+Base,91,Predator,yield,429416.297333333
+Base,92,Predator,yield,427235.35165
+Base,93,Predator,yield,442692.100533334
+Base,94,Predator,yield,411306.055666667
+Base,95,Predator,yield,428827.008433333
+Base,96,Predator,yield,420439.2218
+Base,97,Predator,yield,422406.7108
+Base,98,Predator,yield,424342.576933333
+Base,99,Predator,yield,438487.660433333
+Base,100,Predator,yield,440442.3695
+Base,1,Invertebrate,yield,320294.7248
+Base,2,Invertebrate,yield,325204.3281
+Base,3,Invertebrate,yield,345292.389233333
+Base,4,Invertebrate,yield,326514.375433333
+Base,5,Invertebrate,yield,334258.529833333
+Base,6,Invertebrate,yield,331202.479633333
+Base,7,Invertebrate,yield,334984.951433333
+Base,8,Invertebrate,yield,339879.821433333
+Base,9,Invertebrate,yield,324195.445566667
+Base,10,Invertebrate,yield,336452.647333333
+Base,11,Invertebrate,yield,344450.517333333
+Base,12,Invertebrate,yield,324193.0179
+Base,13,Invertebrate,yield,331921.286866667
+Base,14,Invertebrate,yield,305845.7078
+Base,15,Invertebrate,yield,328846.6477
+Base,16,Invertebrate,yield,335196.487166667
+Base,17,Invertebrate,yield,343538.804766667
+Base,18,Invertebrate,yield,335481.363733333
+Base,19,Invertebrate,yield,335602.430733333
+Base,20,Invertebrate,yield,332174.652333333
+Base,21,Invertebrate,yield,332539.005566667
+Base,22,Invertebrate,yield,335580.499933333
+Base,23,Invertebrate,yield,330179.192766667
+Base,24,Invertebrate,yield,324262.937433333
+Base,25,Invertebrate,yield,331494.158966667
+Base,26,Invertebrate,yield,328801.637933333
+Base,27,Invertebrate,yield,326743.8668
+Base,28,Invertebrate,yield,327013.237633333
+Base,29,Invertebrate,yield,335530.5052
+Base,30,Invertebrate,yield,348598.8762
+Base,31,Invertebrate,yield,327887.425966667
+Base,32,Invertebrate,yield,337667.994466667
+Base,33,Invertebrate,yield,325042.745733333
+Base,34,Invertebrate,yield,338895.776266667
+Base,35,Invertebrate,yield,337746.305633333
+Base,36,Invertebrate,yield,335396.4597
+Base,37,Invertebrate,yield,333672.891066667
+Base,38,Invertebrate,yield,331576.321066667
+Base,39,Invertebrate,yield,332702.840266667
+Base,40,Invertebrate,yield,330773.013133333
+Base,41,Invertebrate,yield,340632.7293
+Base,42,Invertebrate,yield,334326.049633333
+Base,43,Invertebrate,yield,314898.2828
+Base,44,Invertebrate,yield,319569.944566667
+Base,45,Invertebrate,yield,323434.2685
+Base,46,Invertebrate,yield,343237.416633333
+Base,47,Invertebrate,yield,309525.853633333
+Base,48,Invertebrate,yield,326902.458333333
+Base,49,Invertebrate,yield,322936.468533333
+Base,50,Invertebrate,yield,344865.2115
+Base,51,Invertebrate,yield,334131.704533333
+Base,52,Invertebrate,yield,362601.8588
+Base,53,Invertebrate,yield,336693.6287
+Base,54,Invertebrate,yield,342333.2135
+Base,55,Invertebrate,yield,355379.0476
+Base,56,Invertebrate,yield,330314.128766667
+Base,57,Invertebrate,yield,326082.535466667
+Base,58,Invertebrate,yield,331680.722
+Base,59,Invertebrate,yield,328132.477466667
+Base,60,Invertebrate,yield,325659.452
+Base,61,Invertebrate,yield,329831.8822
+Base,62,Invertebrate,yield,327009.9933
+Base,63,Invertebrate,yield,342291.2674
+Base,64,Invertebrate,yield,349112.155566667
+Base,65,Invertebrate,yield,359113.719466667
+Base,66,Invertebrate,yield,318977.590433333
+Base,67,Invertebrate,yield,339490.387933333
+Base,68,Invertebrate,yield,329587.180266667
+Base,69,Invertebrate,yield,325508.4897
+Base,70,Invertebrate,yield,341366.214866667
+Base,71,Invertebrate,yield,327568.5048
+Base,72,Invertebrate,yield,339933.7626
+Base,73,Invertebrate,yield,328992.348266667
+Base,74,Invertebrate,yield,344972.1725
+Base,75,Invertebrate,yield,330096.670566667
+Base,76,Invertebrate,yield,335522.548
+Base,77,Invertebrate,yield,339445.717166667
+Base,78,Invertebrate,yield,319887.2491
+Base,79,Invertebrate,yield,334425.3618
+Base,80,Invertebrate,yield,328414.2323
+Base,81,Invertebrate,yield,349420.9179
+Base,82,Invertebrate,yield,325270.014333333
+Base,83,Invertebrate,yield,345898.382033333
+Base,84,Invertebrate,yield,338117.701366667
+Base,85,Invertebrate,yield,338043.492833333
+Base,86,Invertebrate,yield,333141.930166667
+Base,87,Invertebrate,yield,323251.236866667
+Base,88,Invertebrate,yield,329258.6535
+Base,89,Invertebrate,yield,340839.8432
+Base,90,Invertebrate,yield,330510.691266667
+Base,91,Invertebrate,yield,312977.8351
+Base,92,Invertebrate,yield,317787.335066667
+Base,93,Invertebrate,yield,327071.5519
+Base,94,Invertebrate,yield,335775.6736
+Base,95,Invertebrate,yield,343845.2563
+Base,96,Invertebrate,yield,336244.9458
+Base,97,Invertebrate,yield,345074.332366667
+Base,98,Invertebrate,yield,340816.571866667
+Base,99,Invertebrate,yield,329425.262533333
+Base,100,Invertebrate,yield,333818.9818
+Base,1,Mid-trophic species,yield,533780.212716667
+Base,2,Mid-trophic species,yield,571899.958533333
+Base,3,Mid-trophic species,yield,530891.333299
+Base,4,Mid-trophic species,yield,524863.030082
+Base,5,Mid-trophic species,yield,529784.498405667
+Base,6,Mid-trophic species,yield,522439.181658
+Base,7,Mid-trophic species,yield,527812.106505667
+Base,8,Mid-trophic species,yield,514157.222055333
+Base,9,Mid-trophic species,yield,512486.498928667
+Base,10,Mid-trophic species,yield,526293.758186667
+Base,11,Mid-trophic species,yield,528282.551501
+Base,12,Mid-trophic species,yield,537484.923864333
+Base,13,Mid-trophic species,yield,519202.256151
+Base,14,Mid-trophic species,yield,523766.538748
+Base,15,Mid-trophic species,yield,533991.740575667
+Base,16,Mid-trophic species,yield,522153.171283333
+Base,17,Mid-trophic species,yield,529326.010028334
+Base,18,Mid-trophic species,yield,521696.85934
+Base,19,Mid-trophic species,yield,518272.764666667
+Base,20,Mid-trophic species,yield,507591.863476667
+Base,21,Mid-trophic species,yield,543148.560108
+Base,22,Mid-trophic species,yield,535685.417846
+Base,23,Mid-trophic species,yield,536420.093536667
+Base,24,Mid-trophic species,yield,506844.566265333
+Base,25,Mid-trophic species,yield,546662.664986
+Base,26,Mid-trophic species,yield,539293.78866
+Base,27,Mid-trophic species,yield,525419.023166667
+Base,28,Mid-trophic species,yield,524204.138386667
+Base,29,Mid-trophic species,yield,526381.733138667
+Base,30,Mid-trophic species,yield,524183.960683333
+Base,31,Mid-trophic species,yield,531223.757700667
+Base,32,Mid-trophic species,yield,534446.142149333
+Base,33,Mid-trophic species,yield,526190.464006667
+Base,34,Mid-trophic species,yield,543999.503672
+Base,35,Mid-trophic species,yield,533261.95812
+Base,36,Mid-trophic species,yield,539742.898426667
+Base,37,Mid-trophic species,yield,529185.4196
+Base,38,Mid-trophic species,yield,526040.351663333
+Base,39,Mid-trophic species,yield,531369.664755333
+Base,40,Mid-trophic species,yield,520334.421282
+Base,41,Mid-trophic species,yield,536074.897033333
+Base,42,Mid-trophic species,yield,514446.610436667
+Base,43,Mid-trophic species,yield,539592.892553333
+Base,44,Mid-trophic species,yield,546265.620713333
+Base,45,Mid-trophic species,yield,536251.132946667
+Base,46,Mid-trophic species,yield,539782.899410333
+Base,47,Mid-trophic species,yield,534970.786319333
+Base,48,Mid-trophic species,yield,523559.337331333
+Base,49,Mid-trophic species,yield,533617.981666667
+Base,50,Mid-trophic species,yield,536068.103886667
+Base,51,Mid-trophic species,yield,541434.981290333
+Base,52,Mid-trophic species,yield,523238.501086667
+Base,53,Mid-trophic species,yield,534171.278491333
+Base,54,Mid-trophic species,yield,531204.649956667
+Base,55,Mid-trophic species,yield,520301.841237667
+Base,56,Mid-trophic species,yield,525157.462937667
+Base,57,Mid-trophic species,yield,535771.014506667
+Base,58,Mid-trophic species,yield,554274.091475
+Base,59,Mid-trophic species,yield,533195.112553333
+Base,60,Mid-trophic species,yield,537068.083463334
+Base,61,Mid-trophic species,yield,549304.754765667
+Base,62,Mid-trophic species,yield,556538.267033333
+Base,63,Mid-trophic species,yield,522471.712546667
+Base,64,Mid-trophic species,yield,514861.73267
+Base,65,Mid-trophic species,yield,496388.9313
+Base,66,Mid-trophic species,yield,529915.845345667
+Base,67,Mid-trophic species,yield,537765.107494333
+Base,68,Mid-trophic species,yield,529001.163928667
+Base,69,Mid-trophic species,yield,526686.161233334
+Base,70,Mid-trophic species,yield,531900.222919333
+Base,71,Mid-trophic species,yield,563159.22072
+Base,72,Mid-trophic species,yield,526908.812209
+Base,73,Mid-trophic species,yield,528256.12381
+Base,74,Mid-trophic species,yield,527515.518873333
+Base,75,Mid-trophic species,yield,541874.953596667
+Base,76,Mid-trophic species,yield,519959.53937
+Base,77,Mid-trophic species,yield,534609.968757333
+Base,78,Mid-trophic species,yield,530358.83081
+Base,79,Mid-trophic species,yield,528412.743463667
+Base,80,Mid-trophic species,yield,529717.488313334
+Base,81,Mid-trophic species,yield,529417.440923333
+Base,82,Mid-trophic species,yield,543531.032886667
+Base,83,Mid-trophic species,yield,531231.381177667
+Base,84,Mid-trophic species,yield,523170.453435
+Base,85,Mid-trophic species,yield,542910.497086667
+Base,86,Mid-trophic species,yield,549826.296748333
+Base,87,Mid-trophic species,yield,545267.320851333
+Base,88,Mid-trophic species,yield,539793.411704333
+Base,89,Mid-trophic species,yield,534007.681747333
+Base,90,Mid-trophic species,yield,521006.811211667
+Base,91,Mid-trophic species,yield,554050.702376667
+Base,92,Mid-trophic species,yield,541232.67649
+Base,93,Mid-trophic species,yield,555268.933902
+Base,94,Mid-trophic species,yield,547596.277527667
+Base,95,Mid-trophic species,yield,520591.610758667
+Base,96,Mid-trophic species,yield,541898.993134334
+Base,97,Mid-trophic species,yield,544452.022581333
+Base,98,Mid-trophic species,yield,519204.932
+Base,99,Mid-trophic species,yield,543241.93481
+Base,100,Mid-trophic species,yield,530803.897335333
+SSP1-2.6,1,Prey,yield,130990.998740741
+SSP1-2.6,2,Prey,yield,126951.391209877
+SSP1-2.6,3,Prey,yield,126792.729197531
+SSP1-2.6,4,Prey,yield,129644.939111111
+SSP1-2.6,5,Prey,yield,128474.142839506
+SSP1-2.6,6,Prey,yield,128023.979567901
+SSP1-2.6,7,Prey,yield,122962.296308642
+SSP1-2.6,8,Prey,yield,126193.866271605
+SSP1-2.6,9,Prey,yield,135742.946617284
+SSP1-2.6,10,Prey,yield,134345.520555556
+SSP1-2.6,11,Prey,yield,126453.818
+SSP1-2.6,12,Prey,yield,126803.970407407
+SSP1-2.6,13,Prey,yield,122398.68391358
+SSP1-2.6,14,Prey,yield,127958.002358025
+SSP1-2.6,15,Prey,yield,135205.179777778
+SSP1-2.6,16,Prey,yield,129824.634234568
+SSP1-2.6,17,Prey,yield,131927.292641975
+SSP1-2.6,18,Prey,yield,132209.311197531
+SSP1-2.6,19,Prey,yield,129232.207679012
+SSP1-2.6,20,Prey,yield,124593.842679012
+SSP1-2.6,21,Prey,yield,135740.180679012
+SSP1-2.6,22,Prey,yield,122415.166395062
+SSP1-2.6,23,Prey,yield,130264.048098765
+SSP1-2.6,24,Prey,yield,126745.48408642
+SSP1-2.6,25,Prey,yield,134535.241395062
+SSP1-2.6,26,Prey,yield,132224.978061728
+SSP1-2.6,27,Prey,yield,135425.409592593
+SSP1-2.6,28,Prey,yield,134034.180654321
+SSP1-2.6,29,Prey,yield,126428.599691358
+SSP1-2.6,30,Prey,yield,130671.534765432
+SSP1-2.6,31,Prey,yield,126964.348851852
+SSP1-2.6,32,Prey,yield,128781.90737037
+SSP1-2.6,33,Prey,yield,134491.966679012
+SSP1-2.6,34,Prey,yield,123654.377209877
+SSP1-2.6,35,Prey,yield,130026.573469136
+SSP1-2.6,36,Prey,yield,131345.358518519
+SSP1-2.6,37,Prey,yield,124463.685580247
+SSP1-2.6,38,Prey,yield,129042.388506173
+SSP1-2.6,39,Prey,yield,126870.240061728
+SSP1-2.6,40,Prey,yield,124873.566246914
+SSP1-2.6,41,Prey,yield,127996.837888889
+SSP1-2.6,42,Prey,yield,130224.459814815
+SSP1-2.6,43,Prey,yield,119202.401679012
+SSP1-2.6,44,Prey,yield,127941.286271605
+SSP1-2.6,45,Prey,yield,127525.007
+SSP1-2.6,46,Prey,yield,130192.551790123
+SSP1-2.6,47,Prey,yield,128605.158209877
+SSP1-2.6,48,Prey,yield,127525.329234568
+SSP1-2.6,49,Prey,yield,129915.620716049
+SSP1-2.6,50,Prey,yield,131500.319790124
+SSP1-2.6,51,Prey,yield,127814.109530864
+SSP1-2.6,52,Prey,yield,122568.47917284
+SSP1-2.6,53,Prey,yield,132713.561074074
+SSP1-2.6,54,Prey,yield,126692.075407407
+SSP1-2.6,55,Prey,yield,129461.098567901
+SSP1-2.6,56,Prey,yield,125962.790679012
+SSP1-2.6,57,Prey,yield,127613.824654321
+SSP1-2.6,58,Prey,yield,123462.089234568
+SSP1-2.6,59,Prey,yield,125474.982654321
+SSP1-2.6,60,Prey,yield,130171.249185185
+SSP1-2.6,61,Prey,yield,121731.480345679
+SSP1-2.6,62,Prey,yield,123328.672790123
+SSP1-2.6,63,Prey,yield,131393.437777778
+SSP1-2.6,64,Prey,yield,128849.161358025
+SSP1-2.6,65,Prey,yield,125842.681432099
+SSP1-2.6,66,Prey,yield,127244.597716049
+SSP1-2.6,67,Prey,yield,124015.595123457
+SSP1-2.6,68,Prey,yield,130353.06591358
+SSP1-2.6,69,Prey,yield,128936.541975309
+SSP1-2.6,70,Prey,yield,126385.134098765
+SSP1-2.6,71,Prey,yield,130022.710419753
+SSP1-2.6,72,Prey,yield,125200.780481481
+SSP1-2.6,73,Prey,yield,131996.94937037
+SSP1-2.6,74,Prey,yield,131610.069555556
+SSP1-2.6,75,Prey,yield,127192.779604938
+SSP1-2.6,76,Prey,yield,131429.22908642
+SSP1-2.6,77,Prey,yield,133214.832296296
+SSP1-2.6,78,Prey,yield,127262.622925926
+SSP1-2.6,79,Prey,yield,130070.009135802
+SSP1-2.6,80,Prey,yield,120578.82745679
+SSP1-2.6,81,Prey,yield,127271.708580247
+SSP1-2.6,82,Prey,yield,122781.955925926
+SSP1-2.6,83,Prey,yield,126242.347814815
+SSP1-2.6,84,Prey,yield,126529.688975309
+SSP1-2.6,85,Prey,yield,129736.345901235
+SSP1-2.6,86,Prey,yield,126782.759580247
+SSP1-2.6,87,Prey,yield,121432.716444444
+SSP1-2.6,88,Prey,yield,132424.143950617
+SSP1-2.6,89,Prey,yield,123499.977271605
+SSP1-2.6,90,Prey,yield,124314.51282716
+SSP1-2.6,91,Prey,yield,127463.483024691
+SSP1-2.6,92,Prey,yield,127648.317469136
+SSP1-2.6,93,Prey,yield,128764.521098765
+SSP1-2.6,94,Prey,yield,124677.630197531
+SSP1-2.6,95,Prey,yield,124457.603320988
+SSP1-2.6,96,Prey,yield,137230.90117284
+SSP1-2.6,97,Prey,yield,127237.973061728
+SSP1-2.6,98,Prey,yield,127956.543246914
+SSP1-2.6,99,Prey,yield,131916.75437037
+SSP1-2.6,100,Prey,yield,128284.531283951
+SSP1-2.6,1,Predator,yield,425666.354209877
+SSP1-2.6,2,Predator,yield,429779.062012346
+SSP1-2.6,3,Predator,yield,429488.760691358
+SSP1-2.6,4,Predator,yield,428350.636679012
+SSP1-2.6,5,Predator,yield,425653.142806173
+SSP1-2.6,6,Predator,yield,430671.068024691
+SSP1-2.6,7,Predator,yield,434485.932740741
+SSP1-2.6,8,Predator,yield,427879.936506173
+SSP1-2.6,9,Predator,yield,431768.880901235
+SSP1-2.6,10,Predator,yield,426500.796975309
+SSP1-2.6,11,Predator,yield,431829.869166667
+SSP1-2.6,12,Predator,yield,429913.183172839
+SSP1-2.6,13,Predator,yield,429442.316444444
+SSP1-2.6,14,Predator,yield,424942.057030864
+SSP1-2.6,15,Predator,yield,427159.428851852
+SSP1-2.6,16,Predator,yield,432018.303218519
+SSP1-2.6,17,Predator,yield,441723.49091358
+SSP1-2.6,18,Predator,yield,427206.580530864
+SSP1-2.6,19,Predator,yield,432556.511367901
+SSP1-2.6,20,Predator,yield,435116.797679012
+SSP1-2.6,21,Predator,yield,435997.586604938
+SSP1-2.6,22,Predator,yield,437229.017160494
+SSP1-2.6,23,Predator,yield,425178.204938272
+SSP1-2.6,24,Predator,yield,434188.233024692
+SSP1-2.6,25,Predator,yield,428441.861296296
+SSP1-2.6,26,Predator,yield,441668.154790123
+SSP1-2.6,27,Predator,yield,434254.398537037
+SSP1-2.6,28,Predator,yield,428922.873938272
+SSP1-2.6,29,Predator,yield,437996.667358025
+SSP1-2.6,30,Predator,yield,437116.182037037
+SSP1-2.6,31,Predator,yield,430189.230197531
+SSP1-2.6,32,Predator,yield,436727.11145679
+SSP1-2.6,33,Predator,yield,436923.375074074
+SSP1-2.6,34,Predator,yield,435881.755555556
+SSP1-2.6,35,Predator,yield,436317.219679012
+SSP1-2.6,36,Predator,yield,431409.830209877
+SSP1-2.6,37,Predator,yield,424827.070185185
+SSP1-2.6,38,Predator,yield,428686.040475309
+SSP1-2.6,39,Predator,yield,428000.096191358
+SSP1-2.6,40,Predator,yield,434909.115006173
+SSP1-2.6,41,Predator,yield,444142.044061729
+SSP1-2.6,42,Predator,yield,423732.296209877
+SSP1-2.6,43,Predator,yield,430603.535209877
+SSP1-2.6,44,Predator,yield,431529.92467284
+SSP1-2.6,45,Predator,yield,430980.106716049
+SSP1-2.6,46,Predator,yield,430388.39617284
+SSP1-2.6,47,Predator,yield,430307.758345679
+SSP1-2.6,48,Predator,yield,431955.354907407
+SSP1-2.6,49,Predator,yield,437787.626061729
+SSP1-2.6,50,Predator,yield,440783.711308642
+SSP1-2.6,51,Predator,yield,431280.559691358
+SSP1-2.6,52,Predator,yield,435174.046925926
+SSP1-2.6,53,Predator,yield,433974.790024691
+SSP1-2.6,54,Predator,yield,433936.996259259
+SSP1-2.6,55,Predator,yield,445351.37537037
+SSP1-2.6,56,Predator,yield,438876.019845679
+SSP1-2.6,57,Predator,yield,428884.431351852
+SSP1-2.6,58,Predator,yield,425468.353981482
+SSP1-2.6,59,Predator,yield,441743.548740741
+SSP1-2.6,60,Predator,yield,434925.270012346
+SSP1-2.6,61,Predator,yield,434639.553765432
+SSP1-2.6,62,Predator,yield,438439.244716049
+SSP1-2.6,63,Predator,yield,431399.892518519
+SSP1-2.6,64,Predator,yield,436004.794154321
+SSP1-2.6,65,Predator,yield,430148.805975309
+SSP1-2.6,66,Predator,yield,429448.898160494
+SSP1-2.6,67,Predator,yield,422932.374790124
+SSP1-2.6,68,Predator,yield,441766.565358025
+SSP1-2.6,69,Predator,yield,434247.653481481
+SSP1-2.6,70,Predator,yield,432957.704802469
+SSP1-2.6,71,Predator,yield,436489.515049383
+SSP1-2.6,72,Predator,yield,436215.122864198
+SSP1-2.6,73,Predator,yield,427479.135851852
+SSP1-2.6,74,Predator,yield,437254.811432099
+SSP1-2.6,75,Predator,yield,431882.911259259
+SSP1-2.6,76,Predator,yield,442211.56437037
+SSP1-2.6,77,Predator,yield,429236.766382716
+SSP1-2.6,78,Predator,yield,429969.155160494
+SSP1-2.6,79,Predator,yield,428740.197135802
+SSP1-2.6,80,Predator,yield,434514.675296296
+SSP1-2.6,81,Predator,yield,429368.718462963
+SSP1-2.6,82,Predator,yield,426964.360061728
+SSP1-2.6,83,Predator,yield,433576.895592593
+SSP1-2.6,84,Predator,yield,432127.897518519
+SSP1-2.6,85,Predator,yield,432021.084111111
+SSP1-2.6,86,Predator,yield,435628.32762963
+SSP1-2.6,87,Predator,yield,439266.804444445
+SSP1-2.6,88,Predator,yield,434315.883691358
+SSP1-2.6,89,Predator,yield,436102.279481482
+SSP1-2.6,90,Predator,yield,422539.116234568
+SSP1-2.6,91,Predator,yield,426343.463049383
+SSP1-2.6,92,Predator,yield,433830.759364198
+SSP1-2.6,93,Predator,yield,435558.214648148
+SSP1-2.6,94,Predator,yield,427715.877962963
+SSP1-2.6,95,Predator,yield,439094.47004321
+SSP1-2.6,96,Predator,yield,429613.018333333
+SSP1-2.6,97,Predator,yield,433206.469777778
+SSP1-2.6,98,Predator,yield,434780.624876543
+SSP1-2.6,99,Predator,yield,434241.54667284
+SSP1-2.6,100,Predator,yield,438369.613135803
+SSP1-2.6,1,Invertebrate,yield,329103.199839506
+SSP1-2.6,2,Invertebrate,yield,329272.857901235
+SSP1-2.6,3,Invertebrate,yield,328566.202012346
+SSP1-2.6,4,Invertebrate,yield,333329.623382716
+SSP1-2.6,5,Invertebrate,yield,324711.334308642
+SSP1-2.6,6,Invertebrate,yield,336124.542259259
+SSP1-2.6,7,Invertebrate,yield,336553.760382716
+SSP1-2.6,8,Invertebrate,yield,334622.285728395
+SSP1-2.6,9,Invertebrate,yield,333676.376703704
+SSP1-2.6,10,Invertebrate,yield,326910.164185185
+SSP1-2.6,11,Invertebrate,yield,339196.588345679
+SSP1-2.6,12,Invertebrate,yield,345651.450395062
+SSP1-2.6,13,Invertebrate,yield,327173.888469136
+SSP1-2.6,14,Invertebrate,yield,335517.306283951
+SSP1-2.6,15,Invertebrate,yield,328931.642728395
+SSP1-2.6,16,Invertebrate,yield,334605.232567901
+SSP1-2.6,17,Invertebrate,yield,342034.989901235
+SSP1-2.6,18,Invertebrate,yield,333170.910864198
+SSP1-2.6,19,Invertebrate,yield,332147.321012346
+SSP1-2.6,20,Invertebrate,yield,333055.355345679
+SSP1-2.6,21,Invertebrate,yield,330159.564395062
+SSP1-2.6,22,Invertebrate,yield,339151.774777778
+SSP1-2.6,23,Invertebrate,yield,324212.903567901
+SSP1-2.6,24,Invertebrate,yield,332276.342888889
+SSP1-2.6,25,Invertebrate,yield,327867.012444444
+SSP1-2.6,26,Invertebrate,yield,334400.760037037
+SSP1-2.6,27,Invertebrate,yield,324596.728851852
+SSP1-2.6,28,Invertebrate,yield,327481.738333333
+SSP1-2.6,29,Invertebrate,yield,326172.617691358
+SSP1-2.6,30,Invertebrate,yield,330826.132259259
+SSP1-2.6,31,Invertebrate,yield,320968.80254321
+SSP1-2.6,32,Invertebrate,yield,327650.835864198
+SSP1-2.6,33,Invertebrate,yield,337148.077395062
+SSP1-2.6,34,Invertebrate,yield,332253.75154321
+SSP1-2.6,35,Invertebrate,yield,330840.509839506
+SSP1-2.6,36,Invertebrate,yield,329186.095839506
+SSP1-2.6,37,Invertebrate,yield,337311.525728395
+SSP1-2.6,38,Invertebrate,yield,341851.823641975
+SSP1-2.6,39,Invertebrate,yield,331174.548395062
+SSP1-2.6,40,Invertebrate,yield,332679.145185185
+SSP1-2.6,41,Invertebrate,yield,340124.678790123
+SSP1-2.6,42,Invertebrate,yield,321675.294271605
+SSP1-2.6,43,Invertebrate,yield,333578.984530864
+SSP1-2.6,44,Invertebrate,yield,330801.446641975
+SSP1-2.6,45,Invertebrate,yield,341143.599604938
+SSP1-2.6,46,Invertebrate,yield,328923.232148148
+SSP1-2.6,47,Invertebrate,yield,325423.232493827
+SSP1-2.6,48,Invertebrate,yield,327971.070641975
+SSP1-2.6,49,Invertebrate,yield,330979.042185185
+SSP1-2.6,50,Invertebrate,yield,334887.141333333
+SSP1-2.6,51,Invertebrate,yield,335430.67117284
+SSP1-2.6,52,Invertebrate,yield,338688.244753087
+SSP1-2.6,53,Invertebrate,yield,333748.20517284
+SSP1-2.6,54,Invertebrate,yield,325422.446111111
+SSP1-2.6,55,Invertebrate,yield,334706.622580247
+SSP1-2.6,56,Invertebrate,yield,327297.967802469
+SSP1-2.6,57,Invertebrate,yield,326782.38508642
+SSP1-2.6,58,Invertebrate,yield,346462.117901235
+SSP1-2.6,59,Invertebrate,yield,344783.054876543
+SSP1-2.6,60,Invertebrate,yield,333508.350555556
+SSP1-2.6,61,Invertebrate,yield,323571.122419753
+SSP1-2.6,62,Invertebrate,yield,323590.808296296
+SSP1-2.6,63,Invertebrate,yield,331067.749962963
+SSP1-2.6,64,Invertebrate,yield,338750.696345679
+SSP1-2.6,65,Invertebrate,yield,327235.118839506
+SSP1-2.6,66,Invertebrate,yield,331536.651962963
+SSP1-2.6,67,Invertebrate,yield,333513.557283951
+SSP1-2.6,68,Invertebrate,yield,332351.934864198
+SSP1-2.6,69,Invertebrate,yield,340160.799901235
+SSP1-2.6,70,Invertebrate,yield,345905.720419753
+SSP1-2.6,71,Invertebrate,yield,330773.85962963
+SSP1-2.6,72,Invertebrate,yield,334294.364728395
+SSP1-2.6,73,Invertebrate,yield,333847.034530864
+SSP1-2.6,74,Invertebrate,yield,328623.407061728
+SSP1-2.6,75,Invertebrate,yield,330070.816604938
+SSP1-2.6,76,Invertebrate,yield,333164.150135803
+SSP1-2.6,77,Invertebrate,yield,344075.559358025
+SSP1-2.6,78,Invertebrate,yield,338635.669
+SSP1-2.6,79,Invertebrate,yield,337548.093765432
+SSP1-2.6,80,Invertebrate,yield,337727.517716049
+SSP1-2.6,81,Invertebrate,yield,329184.922790124
+SSP1-2.6,82,Invertebrate,yield,328083.086185185
+SSP1-2.6,83,Invertebrate,yield,330600.138839506
+SSP1-2.6,84,Invertebrate,yield,334266.727641975
+SSP1-2.6,85,Invertebrate,yield,327646.866777778
+SSP1-2.6,86,Invertebrate,yield,340062.300481482
+SSP1-2.6,87,Invertebrate,yield,338019.910703704
+SSP1-2.6,88,Invertebrate,yield,331669.090777778
+SSP1-2.6,89,Invertebrate,yield,335948.11454321
+SSP1-2.6,90,Invertebrate,yield,329750.506691358
+SSP1-2.6,91,Invertebrate,yield,327036.263703704
+SSP1-2.6,92,Invertebrate,yield,347581.81891358
+SSP1-2.6,93,Invertebrate,yield,327515.005358025
+SSP1-2.6,94,Invertebrate,yield,333557.419283951
+SSP1-2.6,95,Invertebrate,yield,339753.832604938
+SSP1-2.6,96,Invertebrate,yield,339724.477654321
+SSP1-2.6,97,Invertebrate,yield,338421.420493827
+SSP1-2.6,98,Invertebrate,yield,343558.514222222
+SSP1-2.6,99,Invertebrate,yield,334373.699555556
+SSP1-2.6,100,Invertebrate,yield,335634.439753086
+SSP1-2.6,1,Mid-trophic species,yield,567142.081593827
+SSP1-2.6,2,Mid-trophic species,yield,543914.219912716
+SSP1-2.6,3,Mid-trophic species,yield,543740.080298148
+SSP1-2.6,4,Mid-trophic species,yield,554793.731344815
+SSP1-2.6,5,Mid-trophic species,yield,556482.065825309
+SSP1-2.6,6,Mid-trophic species,yield,550174.569977284
+SSP1-2.6,7,Mid-trophic species,yield,534650.515097408
+SSP1-2.6,8,Mid-trophic species,yield,549821.669389753
+SSP1-2.6,9,Mid-trophic species,yield,557150.522145062
+SSP1-2.6,10,Mid-trophic species,yield,555343.263128765
+SSP1-2.6,11,Mid-trophic species,yield,543159.537687407
+SSP1-2.6,12,Mid-trophic species,yield,546756.195566667
+SSP1-2.6,13,Mid-trophic species,yield,549309.758879877
+SSP1-2.6,14,Mid-trophic species,yield,547861.980624321
+SSP1-2.6,15,Mid-trophic species,yield,546965.397467901
+SSP1-2.6,16,Mid-trophic species,yield,547671.098279877
+SSP1-2.6,17,Mid-trophic species,yield,544377.829115802
+SSP1-2.6,18,Mid-trophic species,yield,551227.70424358
+SSP1-2.6,19,Mid-trophic species,yield,549077.455071852
+SSP1-2.6,20,Mid-trophic species,yield,538011.44568358
+SSP1-2.6,21,Mid-trophic species,yield,554913.35512642
+SSP1-2.6,22,Mid-trophic species,yield,541083.462147778
+SSP1-2.6,23,Mid-trophic species,yield,559879.509577161
+SSP1-2.6,24,Mid-trophic species,yield,535551.443677407
+SSP1-2.6,25,Mid-trophic species,yield,549477.733348025
+SSP1-2.6,26,Mid-trophic species,yield,537146.546801729
+SSP1-2.6,27,Mid-trophic species,yield,548270.437774321
+SSP1-2.6,28,Mid-trophic species,yield,549970.694747901
+SSP1-2.6,29,Mid-trophic species,yield,555795.776054815
+SSP1-2.6,30,Mid-trophic species,yield,552285.31251679
+SSP1-2.6,31,Mid-trophic species,yield,559289.640095321
+SSP1-2.6,32,Mid-trophic species,yield,558517.478641852
+SSP1-2.6,33,Mid-trophic species,yield,544554.30010679
+SSP1-2.6,34,Mid-trophic species,yield,528702.942967284
+SSP1-2.6,35,Mid-trophic species,yield,548439.980308889
+SSP1-2.6,36,Mid-trophic species,yield,543594.48203321
+SSP1-2.6,37,Mid-trophic species,yield,545417.997426543
+SSP1-2.6,38,Mid-trophic species,yield,543545.593768025
+SSP1-2.6,39,Mid-trophic species,yield,564174.137351111
+SSP1-2.6,40,Mid-trophic species,yield,543622.055290988
+SSP1-2.6,41,Mid-trophic species,yield,547651.942419383
+SSP1-2.6,42,Mid-trophic species,yield,564640.397727161
+SSP1-2.6,43,Mid-trophic species,yield,545562.866503704
+SSP1-2.6,44,Mid-trophic species,yield,554115.222473951
+SSP1-2.6,45,Mid-trophic species,yield,565106.274062716
+SSP1-2.6,46,Mid-trophic species,yield,547757.922754445
+SSP1-2.6,47,Mid-trophic species,yield,549275.051030123
+SSP1-2.6,48,Mid-trophic species,yield,559302.246430988
+SSP1-2.6,49,Mid-trophic species,yield,559401.324425679
+SSP1-2.6,50,Mid-trophic species,yield,543794.57038037
+SSP1-2.6,51,Mid-trophic species,yield,538604.753807531
+SSP1-2.6,52,Mid-trophic species,yield,550404.365388025
+SSP1-2.6,53,Mid-trophic species,yield,554026.364857284
+SSP1-2.6,54,Mid-trophic species,yield,544678.451358889
+SSP1-2.6,55,Mid-trophic species,yield,532932.568343333
+SSP1-2.6,56,Mid-trophic species,yield,547451.104578395
+SSP1-2.6,57,Mid-trophic species,yield,536521.911496667
+SSP1-2.6,58,Mid-trophic species,yield,541449.714521111
+SSP1-2.6,59,Mid-trophic species,yield,544520.957453704
+SSP1-2.6,60,Mid-trophic species,yield,544488.359169753
+SSP1-2.6,61,Mid-trophic species,yield,562635.781016914
+SSP1-2.6,62,Mid-trophic species,yield,546100.992728766
+SSP1-2.6,63,Mid-trophic species,yield,549575.171394568
+SSP1-2.6,64,Mid-trophic species,yield,536891.249888766
+SSP1-2.6,65,Mid-trophic species,yield,550766.163439506
+SSP1-2.6,66,Mid-trophic species,yield,558033.519799383
+SSP1-2.6,67,Mid-trophic species,yield,561006.053195309
+SSP1-2.6,68,Mid-trophic species,yield,554455.609640247
+SSP1-2.6,69,Mid-trophic species,yield,542993.601691234
+SSP1-2.6,70,Mid-trophic species,yield,545137.006787037
+SSP1-2.6,71,Mid-trophic species,yield,559299.627808766
+SSP1-2.6,72,Mid-trophic species,yield,564953.483274568
+SSP1-2.6,73,Mid-trophic species,yield,555704.921816543
+SSP1-2.6,74,Mid-trophic species,yield,556900.974605556
+SSP1-2.6,75,Mid-trophic species,yield,536232.152079136
+SSP1-2.6,76,Mid-trophic species,yield,533793.306789136
+SSP1-2.6,77,Mid-trophic species,yield,545053.558467654
+SSP1-2.6,78,Mid-trophic species,yield,553666.404277778
+SSP1-2.6,79,Mid-trophic species,yield,549957.331123087
+SSP1-2.6,80,Mid-trophic species,yield,558845.801291852
+SSP1-2.6,81,Mid-trophic species,yield,540856.168528395
+SSP1-2.6,82,Mid-trophic species,yield,551300.03322
+SSP1-2.6,83,Mid-trophic species,yield,547342.840861728
+SSP1-2.6,84,Mid-trophic species,yield,551717.523785679
+SSP1-2.6,85,Mid-trophic species,yield,551176.029130247
+SSP1-2.6,86,Mid-trophic species,yield,536153.431608642
+SSP1-2.6,87,Mid-trophic species,yield,551410.871944445
+SSP1-2.6,88,Mid-trophic species,yield,545800.239559136
+SSP1-2.6,89,Mid-trophic species,yield,549046.840589136
+SSP1-2.6,90,Mid-trophic species,yield,552281.858695432
+SSP1-2.6,91,Mid-trophic species,yield,538429.268300124
+SSP1-2.6,92,Mid-trophic species,yield,546121.736880247
+SSP1-2.6,93,Mid-trophic species,yield,550725.460739753
+SSP1-2.6,94,Mid-trophic species,yield,551422.160342222
+SSP1-2.6,95,Mid-trophic species,yield,533300.175501975
+SSP1-2.6,96,Mid-trophic species,yield,558176.069106667
+SSP1-2.6,97,Mid-trophic species,yield,542052.579563827
+SSP1-2.6,98,Mid-trophic species,yield,533827.789432469
+SSP1-2.6,99,Mid-trophic species,yield,537634.620714321
+SSP1-2.6,100,Mid-trophic species,yield,539165.076070988
+SSP5-8.5,1,Prey,yield,110061.442049383
+SSP5-8.5,2,Prey,yield,115945.486320988
+SSP5-8.5,3,Prey,yield,114403.516802469
+SSP5-8.5,4,Prey,yield,116729.346876543
+SSP5-8.5,5,Prey,yield,112592.765395062
+SSP5-8.5,6,Prey,yield,117343.475123457
+SSP5-8.5,7,Prey,yield,112279.405061728
+SSP5-8.5,8,Prey,yield,115694.911123457
+SSP5-8.5,9,Prey,yield,119166.662975309
+SSP5-8.5,10,Prey,yield,118923.573802469
+SSP5-8.5,11,Prey,yield,114401.61762963
+SSP5-8.5,12,Prey,yield,115735.914802469
+SSP5-8.5,13,Prey,yield,114281.876222222
+SSP5-8.5,14,Prey,yield,118545.484814815
+SSP5-8.5,15,Prey,yield,117090.672604938
+SSP5-8.5,16,Prey,yield,111580.746259259
+SSP5-8.5,17,Prey,yield,118581.658358025
+SSP5-8.5,18,Prey,yield,111233.065740741
+SSP5-8.5,19,Prey,yield,117921.236333333
+SSP5-8.5,20,Prey,yield,112177.061851852
+SSP5-8.5,21,Prey,yield,116234.529024691
+SSP5-8.5,22,Prey,yield,121299.346777778
+SSP5-8.5,23,Prey,yield,113170.103185185
+SSP5-8.5,24,Prey,yield,113738.348246914
+SSP5-8.5,25,Prey,yield,115803.427259259
+SSP5-8.5,26,Prey,yield,115297.63045679
+SSP5-8.5,27,Prey,yield,116714.230358025
+SSP5-8.5,28,Prey,yield,116411.605876543
+SSP5-8.5,29,Prey,yield,116519.460493827
+SSP5-8.5,30,Prey,yield,120783.926407407
+SSP5-8.5,31,Prey,yield,114338.156814815
+SSP5-8.5,32,Prey,yield,115193.259901235
+SSP5-8.5,33,Prey,yield,112254.853148148
+SSP5-8.5,34,Prey,yield,115950.420580247
+SSP5-8.5,35,Prey,yield,111249.345395062
+SSP5-8.5,36,Prey,yield,117344.155246914
+SSP5-8.5,37,Prey,yield,118476.17145679
+SSP5-8.5,38,Prey,yield,112394.541654321
+SSP5-8.5,39,Prey,yield,115072.391234568
+SSP5-8.5,40,Prey,yield,114128.227049383
+SSP5-8.5,41,Prey,yield,116304.483061728
+SSP5-8.5,42,Prey,yield,115390.838259259
+SSP5-8.5,43,Prey,yield,111695.854604938
+SSP5-8.5,44,Prey,yield,118515.19491358
+SSP5-8.5,45,Prey,yield,111908.239148148
+SSP5-8.5,46,Prey,yield,115568.126419753
+SSP5-8.5,47,Prey,yield,112711.156765432
+SSP5-8.5,48,Prey,yield,117025.971864198
+SSP5-8.5,49,Prey,yield,127002.605740741
+SSP5-8.5,50,Prey,yield,114594.010740741
+SSP5-8.5,51,Prey,yield,119287.627345679
+SSP5-8.5,52,Prey,yield,115209.39437037
+SSP5-8.5,53,Prey,yield,114913.678728395
+SSP5-8.5,54,Prey,yield,109455.977679012
+SSP5-8.5,55,Prey,yield,117247.639777778
+SSP5-8.5,56,Prey,yield,112325.605
+SSP5-8.5,57,Prey,yield,119078.386098765
+SSP5-8.5,58,Prey,yield,119193.672148148
+SSP5-8.5,59,Prey,yield,119128.104962963
+SSP5-8.5,60,Prey,yield,111568.235703704
+SSP5-8.5,61,Prey,yield,116020.229419753
+SSP5-8.5,62,Prey,yield,117985.353555556
+SSP5-8.5,63,Prey,yield,115253.442530864
+SSP5-8.5,64,Prey,yield,111850.292901235
+SSP5-8.5,65,Prey,yield,119040.713962963
+SSP5-8.5,66,Prey,yield,111775.84137037
+SSP5-8.5,67,Prey,yield,118273.052691358
+SSP5-8.5,68,Prey,yield,116608.373728395
+SSP5-8.5,69,Prey,yield,121739.256703704
+SSP5-8.5,70,Prey,yield,119701.478123457
+SSP5-8.5,71,Prey,yield,118048.448197531
+SSP5-8.5,72,Prey,yield,113306.371654321
+SSP5-8.5,73,Prey,yield,120481.388851852
+SSP5-8.5,74,Prey,yield,111353.720308642
+SSP5-8.5,75,Prey,yield,112779.072839506
+SSP5-8.5,76,Prey,yield,110814.050432099
+SSP5-8.5,77,Prey,yield,116938.874283951
+SSP5-8.5,78,Prey,yield,121407.62037037
+SSP5-8.5,79,Prey,yield,117854.479024691
+SSP5-8.5,80,Prey,yield,112177.157
+SSP5-8.5,81,Prey,yield,110219.125790123
+SSP5-8.5,82,Prey,yield,115030.080592593
+SSP5-8.5,83,Prey,yield,112479.166160494
+SSP5-8.5,84,Prey,yield,111778.865407407
+SSP5-8.5,85,Prey,yield,116729.206135802
+SSP5-8.5,86,Prey,yield,110949.441222222
+SSP5-8.5,87,Prey,yield,115182.68637037
+SSP5-8.5,88,Prey,yield,114190.111172839
+SSP5-8.5,89,Prey,yield,115762.398827161
+SSP5-8.5,90,Prey,yield,122727.946567901
+SSP5-8.5,91,Prey,yield,116311.036654321
+SSP5-8.5,92,Prey,yield,121605.634
+SSP5-8.5,93,Prey,yield,114321.418753086
+SSP5-8.5,94,Prey,yield,116851.143876543
+SSP5-8.5,95,Prey,yield,117378.209246914
+SSP5-8.5,96,Prey,yield,114420.967530864
+SSP5-8.5,97,Prey,yield,115364.080296296
+SSP5-8.5,98,Prey,yield,112762.816716049
+SSP5-8.5,99,Prey,yield,118119.213592593
+SSP5-8.5,100,Prey,yield,118969.499851852
+SSP5-8.5,1,Predator,yield,437831.249641975
+SSP5-8.5,2,Predator,yield,439860.355160494
+SSP5-8.5,3,Predator,yield,445567.070333333
+SSP5-8.5,4,Predator,yield,444256.091753086
+SSP5-8.5,5,Predator,yield,442777.667111111
+SSP5-8.5,6,Predator,yield,446961.737197531
+SSP5-8.5,7,Predator,yield,444293.00954321
+SSP5-8.5,8,Predator,yield,440299.852345679
+SSP5-8.5,9,Predator,yield,442129.495111111
+SSP5-8.5,10,Predator,yield,439562.655765432
+SSP5-8.5,11,Predator,yield,450037.620728395
+SSP5-8.5,12,Predator,yield,442759.031851852
+SSP5-8.5,13,Predator,yield,444656.039753086
+SSP5-8.5,14,Predator,yield,437829.879925926
+SSP5-8.5,15,Predator,yield,437283.341024691
+SSP5-8.5,16,Predator,yield,443728.449209877
+SSP5-8.5,17,Predator,yield,441947.304987654
+SSP5-8.5,18,Predator,yield,439951.991185185
+SSP5-8.5,19,Predator,yield,446428.574209877
+SSP5-8.5,20,Predator,yield,440057.455283951
+SSP5-8.5,21,Predator,yield,432709.035851852
+SSP5-8.5,22,Predator,yield,438712.920012346
+SSP5-8.5,23,Predator,yield,440773.054530864
+SSP5-8.5,24,Predator,yield,434881.338111111
+SSP5-8.5,25,Predator,yield,443876.114975309
+SSP5-8.5,26,Predator,yield,447660.141981481
+SSP5-8.5,27,Predator,yield,439256.25337037
+SSP5-8.5,28,Predator,yield,442244.193820988
+SSP5-8.5,29,Predator,yield,444132.664901235
+SSP5-8.5,30,Predator,yield,441796.122864198
+SSP5-8.5,31,Predator,yield,446388.137358025
+SSP5-8.5,32,Predator,yield,443275.52854321
+SSP5-8.5,33,Predator,yield,444493.403962963
+SSP5-8.5,34,Predator,yield,434892.98262963
+SSP5-8.5,35,Predator,yield,441538.895308642
+SSP5-8.5,36,Predator,yield,437769.562691358
+SSP5-8.5,37,Predator,yield,442311.095469136
+SSP5-8.5,38,Predator,yield,435599.720654321
+SSP5-8.5,39,Predator,yield,439856.749271605
+SSP5-8.5,40,Predator,yield,441346.002728395
+SSP5-8.5,41,Predator,yield,438756.638259259
+SSP5-8.5,42,Predator,yield,446480.965493827
+SSP5-8.5,43,Predator,yield,448017.153561728
+SSP5-8.5,44,Predator,yield,443437.404222222
+SSP5-8.5,45,Predator,yield,445567.218839506
+SSP5-8.5,46,Predator,yield,440500.133839506
+SSP5-8.5,47,Predator,yield,438242.239148148
+SSP5-8.5,48,Predator,yield,445032.013611111
+SSP5-8.5,49,Predator,yield,442834.472506173
+SSP5-8.5,50,Predator,yield,449263.683469136
+SSP5-8.5,51,Predator,yield,441527.334975309
+SSP5-8.5,52,Predator,yield,442648.851308642
+SSP5-8.5,53,Predator,yield,449884.803481481
+SSP5-8.5,54,Predator,yield,436164.486703704
+SSP5-8.5,55,Predator,yield,436885.097827161
+SSP5-8.5,56,Predator,yield,440300.021185185
+SSP5-8.5,57,Predator,yield,442023.000283951
+SSP5-8.5,58,Predator,yield,440675.069814815
+SSP5-8.5,59,Predator,yield,435050.053888889
+SSP5-8.5,60,Predator,yield,433654.726839506
+SSP5-8.5,61,Predator,yield,441326.303506173
+SSP5-8.5,62,Predator,yield,445389.509074074
+SSP5-8.5,63,Predator,yield,443302.441111111
+SSP5-8.5,64,Predator,yield,443409.971469136
+SSP5-8.5,65,Predator,yield,443699.941530864
+SSP5-8.5,66,Predator,yield,443909.836790124
+SSP5-8.5,67,Predator,yield,433498.141506173
+SSP5-8.5,68,Predator,yield,432470.370876543
+SSP5-8.5,69,Predator,yield,436796.070111111
+SSP5-8.5,70,Predator,yield,447884.817
+SSP5-8.5,71,Predator,yield,446327.117246914
+SSP5-8.5,72,Predator,yield,437994.838123457
+SSP5-8.5,73,Predator,yield,447324.168777778
+SSP5-8.5,74,Predator,yield,446968.275271605
+SSP5-8.5,75,Predator,yield,436398.989444444
+SSP5-8.5,76,Predator,yield,444430.819302469
+SSP5-8.5,77,Predator,yield,452686.736679013
+SSP5-8.5,78,Predator,yield,449291.586222222
+SSP5-8.5,79,Predator,yield,452096.410444444
+SSP5-8.5,80,Predator,yield,429832.869530864
+SSP5-8.5,81,Predator,yield,443185.633012346
+SSP5-8.5,82,Predator,yield,442415.257506173
+SSP5-8.5,83,Predator,yield,440187.707296296
+SSP5-8.5,84,Predator,yield,436941.087962963
+SSP5-8.5,85,Predator,yield,444646.969901235
+SSP5-8.5,86,Predator,yield,440600.771888889
+SSP5-8.5,87,Predator,yield,438925.136765432
+SSP5-8.5,88,Predator,yield,450822.375697531
+SSP5-8.5,89,Predator,yield,441209.167012346
+SSP5-8.5,90,Predator,yield,431944.700979012
+SSP5-8.5,91,Predator,yield,449603.796
+SSP5-8.5,92,Predator,yield,436613.690444444
+SSP5-8.5,93,Predator,yield,437094.279061729
+SSP5-8.5,94,Predator,yield,444493.411814815
+SSP5-8.5,95,Predator,yield,443050.056049383
+SSP5-8.5,96,Predator,yield,437801.51317284
+SSP5-8.5,97,Predator,yield,442965.479308642
+SSP5-8.5,98,Predator,yield,436921.324888889
+SSP5-8.5,99,Predator,yield,439602.151567901
+SSP5-8.5,100,Predator,yield,435309.42791358
+SSP5-8.5,1,Invertebrate,yield,334940.861271605
+SSP5-8.5,2,Invertebrate,yield,336900.603370371
+SSP5-8.5,3,Invertebrate,yield,332674.955160494
+SSP5-8.5,4,Invertebrate,yield,338477.244530864
+SSP5-8.5,5,Invertebrate,yield,341613.635246914
+SSP5-8.5,6,Invertebrate,yield,336638.922012346
+SSP5-8.5,7,Invertebrate,yield,345999.184259259
+SSP5-8.5,8,Invertebrate,yield,338071.429753086
+SSP5-8.5,9,Invertebrate,yield,328471.90354321
+SSP5-8.5,10,Invertebrate,yield,337091.796518519
+SSP5-8.5,11,Invertebrate,yield,331708.806246914
+SSP5-8.5,12,Invertebrate,yield,333887.833604938
+SSP5-8.5,13,Invertebrate,yield,347240.333691358
+SSP5-8.5,14,Invertebrate,yield,323590.760518519
+SSP5-8.5,15,Invertebrate,yield,348340.635259259
+SSP5-8.5,16,Invertebrate,yield,354084.327296296
+SSP5-8.5,17,Invertebrate,yield,336948.108037037
+SSP5-8.5,18,Invertebrate,yield,335465.839901235
+SSP5-8.5,19,Invertebrate,yield,344269.325728395
+SSP5-8.5,20,Invertebrate,yield,340556.711814815
+SSP5-8.5,21,Invertebrate,yield,332978.746518519
+SSP5-8.5,22,Invertebrate,yield,335473.601851852
+SSP5-8.5,23,Invertebrate,yield,341237.403246914
+SSP5-8.5,24,Invertebrate,yield,330083.776703704
+SSP5-8.5,25,Invertebrate,yield,339461.218
+SSP5-8.5,26,Invertebrate,yield,337602.972481482
+SSP5-8.5,27,Invertebrate,yield,337985.59982716
+SSP5-8.5,28,Invertebrate,yield,333101.550765432
+SSP5-8.5,29,Invertebrate,yield,341848.822851852
+SSP5-8.5,30,Invertebrate,yield,337849.739308642
+SSP5-8.5,31,Invertebrate,yield,335981.504851852
+SSP5-8.5,32,Invertebrate,yield,339441.654691358
+SSP5-8.5,33,Invertebrate,yield,337598.986790124
+SSP5-8.5,34,Invertebrate,yield,334257.10645679
+SSP5-8.5,35,Invertebrate,yield,339449.372604938
+SSP5-8.5,36,Invertebrate,yield,329048.816432099
+SSP5-8.5,37,Invertebrate,yield,341295.221432099
+SSP5-8.5,38,Invertebrate,yield,326167.841925926
+SSP5-8.5,39,Invertebrate,yield,334788.069555556
+SSP5-8.5,40,Invertebrate,yield,337236.603395062
+SSP5-8.5,41,Invertebrate,yield,321626.31345679
+SSP5-8.5,42,Invertebrate,yield,332326.339209876
+SSP5-8.5,43,Invertebrate,yield,330701.522876543
+SSP5-8.5,44,Invertebrate,yield,347012.520333333
+SSP5-8.5,45,Invertebrate,yield,341444.410617284
+SSP5-8.5,46,Invertebrate,yield,332918.22354321
+SSP5-8.5,47,Invertebrate,yield,334792.29408642
+SSP5-8.5,48,Invertebrate,yield,339542.550987654
+SSP5-8.5,49,Invertebrate,yield,335409.001419753
+SSP5-8.5,50,Invertebrate,yield,337314.724209877
+SSP5-8.5,51,Invertebrate,yield,337979.964876543
+SSP5-8.5,52,Invertebrate,yield,329210.989
+SSP5-8.5,53,Invertebrate,yield,337812.918740741
+SSP5-8.5,54,Invertebrate,yield,335983.982481481
+SSP5-8.5,55,Invertebrate,yield,341767.033703704
+SSP5-8.5,56,Invertebrate,yield,332624.098814815
+SSP5-8.5,57,Invertebrate,yield,334446.755679012
+SSP5-8.5,58,Invertebrate,yield,341292.632407407
+SSP5-8.5,59,Invertebrate,yield,341550.226691358
+SSP5-8.5,60,Invertebrate,yield,339015.723037037
+SSP5-8.5,61,Invertebrate,yield,334676.778197531
+SSP5-8.5,62,Invertebrate,yield,335308.702481481
+SSP5-8.5,63,Invertebrate,yield,347142.466074074
+SSP5-8.5,64,Invertebrate,yield,332165.861407408
+SSP5-8.5,65,Invertebrate,yield,347421.457728395
+SSP5-8.5,66,Invertebrate,yield,332229.661777778
+SSP5-8.5,67,Invertebrate,yield,334321.420419753
+SSP5-8.5,68,Invertebrate,yield,348504.220123457
+SSP5-8.5,69,Invertebrate,yield,327049.31917284
+SSP5-8.5,70,Invertebrate,yield,321019.739975309
+SSP5-8.5,71,Invertebrate,yield,332377.838753086
+SSP5-8.5,72,Invertebrate,yield,340497.870345679
+SSP5-8.5,73,Invertebrate,yield,337452.294888889
+SSP5-8.5,74,Invertebrate,yield,345683.672197531
+SSP5-8.5,75,Invertebrate,yield,345294.801222222
+SSP5-8.5,76,Invertebrate,yield,348240.919246914
+SSP5-8.5,77,Invertebrate,yield,342968.874259259
+SSP5-8.5,78,Invertebrate,yield,345762.013074074
+SSP5-8.5,79,Invertebrate,yield,346047.911160494
+SSP5-8.5,80,Invertebrate,yield,332223.195555556
+SSP5-8.5,81,Invertebrate,yield,346153.740802469
+SSP5-8.5,82,Invertebrate,yield,343241.054345679
+SSP5-8.5,83,Invertebrate,yield,341520.895518519
+SSP5-8.5,84,Invertebrate,yield,338562.442148148
+SSP5-8.5,85,Invertebrate,yield,328585.317530864
+SSP5-8.5,86,Invertebrate,yield,342548.012012346
+SSP5-8.5,87,Invertebrate,yield,339027.092185185
+SSP5-8.5,88,Invertebrate,yield,338283.249567901
+SSP5-8.5,89,Invertebrate,yield,343097.579444444
+SSP5-8.5,90,Invertebrate,yield,343534.149185185
+SSP5-8.5,91,Invertebrate,yield,339832.978234568
+SSP5-8.5,92,Invertebrate,yield,336529.931901235
+SSP5-8.5,93,Invertebrate,yield,345918.925641975
+SSP5-8.5,94,Invertebrate,yield,344356.113518519
+SSP5-8.5,95,Invertebrate,yield,345633.301061728
+SSP5-8.5,96,Invertebrate,yield,319040.534728395
+SSP5-8.5,97,Invertebrate,yield,336400.85008642
+SSP5-8.5,98,Invertebrate,yield,342028.314432099
+SSP5-8.5,99,Invertebrate,yield,328576.601691358
+SSP5-8.5,100,Invertebrate,yield,329120.483012346
+SSP5-8.5,1,Mid-trophic species,yield,575005.662450864
+SSP5-8.5,2,Mid-trophic species,yield,563867.027033827
+SSP5-8.5,3,Mid-trophic species,yield,552019.171791482
+SSP5-8.5,4,Mid-trophic species,yield,576512.643633457
+SSP5-8.5,5,Mid-trophic species,yield,566339.988574445
+SSP5-8.5,6,Mid-trophic species,yield,556079.305373704
+SSP5-8.5,7,Mid-trophic species,yield,563143.355192222
+SSP5-8.5,8,Mid-trophic species,yield,572280.815486296
+SSP5-8.5,9,Mid-trophic species,yield,574923.641804198
+SSP5-8.5,10,Mid-trophic species,yield,570930.734056296
+SSP5-8.5,11,Mid-trophic species,yield,567005.225741605
+SSP5-8.5,12,Mid-trophic species,yield,571929.270324938
+SSP5-8.5,13,Mid-trophic species,yield,576120.70872
+SSP5-8.5,14,Mid-trophic species,yield,575042.273787531
+SSP5-8.5,15,Mid-trophic species,yield,559114.096057901
+SSP5-8.5,16,Mid-trophic species,yield,560035.200411235
+SSP5-8.5,17,Mid-trophic species,yield,566652.220435926
+SSP5-8.5,18,Mid-trophic species,yield,564460.598336914
+SSP5-8.5,19,Mid-trophic species,yield,555778.965558272
+SSP5-8.5,20,Mid-trophic species,yield,566728.490378519
+SSP5-8.5,21,Mid-trophic species,yield,575166.123603704
+SSP5-8.5,22,Mid-trophic species,yield,571595.175635556
+SSP5-8.5,23,Mid-trophic species,yield,579889.267265185
+SSP5-8.5,24,Mid-trophic species,yield,560384.874193704
+SSP5-8.5,25,Mid-trophic species,yield,568103.642263086
+SSP5-8.5,26,Mid-trophic species,yield,553635.078854197
+SSP5-8.5,27,Mid-trophic species,yield,564661.093708148
+SSP5-8.5,28,Mid-trophic species,yield,568114.00396
+SSP5-8.5,29,Mid-trophic species,yield,562076.11266284
+SSP5-8.5,30,Mid-trophic species,yield,578169.299998889
+SSP5-8.5,31,Mid-trophic species,yield,554004.454137037
+SSP5-8.5,32,Mid-trophic species,yield,569848.938929012
+SSP5-8.5,33,Mid-trophic species,yield,560248.90474
+SSP5-8.5,34,Mid-trophic species,yield,563028.10222284
+SSP5-8.5,35,Mid-trophic species,yield,555632.276707037
+SSP5-8.5,36,Mid-trophic species,yield,574169.478516543
+SSP5-8.5,37,Mid-trophic species,yield,568387.843335926
+SSP5-8.5,38,Mid-trophic species,yield,589698.190295062
+SSP5-8.5,39,Mid-trophic species,yield,574387.899806111
+SSP5-8.5,40,Mid-trophic species,yield,560876.028133704
+SSP5-8.5,41,Mid-trophic species,yield,574692.643105679
+SSP5-8.5,42,Mid-trophic species,yield,566009.765527037
+SSP5-8.5,43,Mid-trophic species,yield,588944.521012593
+SSP5-8.5,44,Mid-trophic species,yield,556831.727318025
+SSP5-8.5,45,Mid-trophic species,yield,558589.948795926
+SSP5-8.5,46,Mid-trophic species,yield,561055.174986049
+SSP5-8.5,47,Mid-trophic species,yield,583910.660208765
+SSP5-8.5,48,Mid-trophic species,yield,560054.768496173
+SSP5-8.5,49,Mid-trophic species,yield,556936.127213827
+SSP5-8.5,50,Mid-trophic species,yield,554833.517555803
+SSP5-8.5,51,Mid-trophic species,yield,571210.474247778
+SSP5-8.5,52,Mid-trophic species,yield,566061.818796296
+SSP5-8.5,53,Mid-trophic species,yield,566341.953277778
+SSP5-8.5,54,Mid-trophic species,yield,566089.373950938
+SSP5-8.5,55,Mid-trophic species,yield,566719.172563951
+SSP5-8.5,56,Mid-trophic species,yield,559589.136207778
+SSP5-8.5,57,Mid-trophic species,yield,568249.292125926
+SSP5-8.5,58,Mid-trophic species,yield,557079.202993704
+SSP5-8.5,59,Mid-trophic species,yield,568143.959697161
+SSP5-8.5,60,Mid-trophic species,yield,565825.381589012
+SSP5-8.5,61,Mid-trophic species,yield,565858.519985309
+SSP5-8.5,62,Mid-trophic species,yield,553677.99195679
+SSP5-8.5,63,Mid-trophic species,yield,554548.897384938
+SSP5-8.5,64,Mid-trophic species,yield,564222.063524568
+SSP5-8.5,65,Mid-trophic species,yield,557251.194078889
+SSP5-8.5,66,Mid-trophic species,yield,567538.572384938
+SSP5-8.5,67,Mid-trophic species,yield,559471.833130124
+SSP5-8.5,68,Mid-trophic species,yield,568892.401574445
+SSP5-8.5,69,Mid-trophic species,yield,575351.088672593
+SSP5-8.5,70,Mid-trophic species,yield,562236.405475309
+SSP5-8.5,71,Mid-trophic species,yield,562024.52486642
+SSP5-8.5,72,Mid-trophic species,yield,593940.674507037
+SSP5-8.5,73,Mid-trophic species,yield,546745.550047655
+SSP5-8.5,74,Mid-trophic species,yield,558381.947764815
+SSP5-8.5,75,Mid-trophic species,yield,559765.333446173
+SSP5-8.5,76,Mid-trophic species,yield,565301.831256494
+SSP5-8.5,77,Mid-trophic species,yield,561048.981707408
+SSP5-8.5,78,Mid-trophic species,yield,558027.274860494
+SSP5-8.5,79,Mid-trophic species,yield,555083.538391235
+SSP5-8.5,80,Mid-trophic species,yield,577293.530901975
+SSP5-8.5,81,Mid-trophic species,yield,556972.61960037
+SSP5-8.5,82,Mid-trophic species,yield,575722.268265803
+SSP5-8.5,83,Mid-trophic species,yield,568846.384211111
+SSP5-8.5,84,Mid-trophic species,yield,570318.687382716
+SSP5-8.5,85,Mid-trophic species,yield,555978.015950124
+SSP5-8.5,86,Mid-trophic species,yield,562247.39314
+SSP5-8.5,87,Mid-trophic species,yield,562311.498113827
+SSP5-8.5,88,Mid-trophic species,yield,575788.475288272
+SSP5-8.5,89,Mid-trophic species,yield,554827.938022963
+SSP5-8.5,90,Mid-trophic species,yield,575369.649358272
+SSP5-8.5,91,Mid-trophic species,yield,567880.584635185
+SSP5-8.5,92,Mid-trophic species,yield,584352.708151605
+SSP5-8.5,93,Mid-trophic species,yield,554878.028545803
+SSP5-8.5,94,Mid-trophic species,yield,568254.825234938
+SSP5-8.5,95,Mid-trophic species,yield,573622.797622099
+SSP5-8.5,96,Mid-trophic species,yield,575678.959020988
+SSP5-8.5,97,Mid-trophic species,yield,568909.686076914
+SSP5-8.5,98,Mid-trophic species,yield,572878.252254445
+SSP5-8.5,99,Mid-trophic species,yield,578260.08414642
+SSP5-8.5,100,Mid-trophic species,yield,578183.539363827

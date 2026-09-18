@@ -1,0 +1,49 @@
+scenario,group,mean,lo,hi,n_runs,metric,metric_label
+Base,Prey,26.6968819439333,25.4770702908334,28.0240434140278,100,ingestion_age_standardized,ingestion
+Base,Predator,67.301060288375,66.486452911875,68.2381701349553,100,ingestion_age_standardized,ingestion
+Base,Invertebrate,17.2302055003889,14.7252883172222,19.4525701579583,100,ingestion_age_standardized,ingestion
+Base,Mid-trophic species,56.9869694968781,56.3532183013095,58.1673282969881,100,ingestion_age_standardized,ingestion
+SSP1-2.6,Prey,28.1433367296461,27.4075302414095,28.9870175566872,100,ingestion_age_standardized,ingestion
+SSP1-2.6,Predator,66.8416519108185,66.2639559718695,67.3522338147102,100,ingestion_age_standardized,ingestion
+SSP1-2.6,Invertebrate,15.4392384562516,14.4274458712243,16.4606456690175,100,ingestion_age_standardized,ingestion
+SSP1-2.6,Mid-trophic species,57.2775811608214,56.5718727464756,58.109220636046,100,ingestion_age_standardized,ingestion
+SSP5-8.5,Prey,29.1159265170206,28.2308347811729,30.0562966115123,100,ingestion_age_standardized,ingestion
+SSP5-8.5,Predator,66.1017444490044,65.536151061196,66.6545391867986,100,ingestion_age_standardized,ingestion
+SSP5-8.5,Invertebrate,15.4741528415565,14.3560063761008,16.6973047994856,100,ingestion_age_standardized,ingestion
+SSP5-8.5,Mid-trophic species,57.4175252060035,56.6100133713245,58.5437227464638,100,ingestion_age_standardized,ingestion
+Base,Prey,1.17127525635444,1.11442103763611,1.23675779103333,100,maintenance_age_standardized,maintenance
+Base,Predator,0.537433579695063,0.523474394104607,0.553017865762369,100,maintenance_age_standardized,maintenance
+Base,Invertebrate,0.281760974528506,0.242270119959722,0.34059513092875,100,maintenance_age_standardized,maintenance
+Base,Mid-trophic species,0.4095000320054,0.397641538016713,0.420741591888024,100,maintenance_age_standardized,maintenance
+SSP1-2.6,Prey,1.49383391733934,1.44250582013581,1.5548102890072,100,maintenance_age_standardized,maintenance
+SSP1-2.6,Predator,0.673986598882911,0.659625193161172,0.68747181664246,100,maintenance_age_standardized,maintenance
+SSP1-2.6,Invertebrate,0.428531743784887,0.382877085924897,0.47514622029861,100,maintenance_age_standardized,maintenance
+SSP1-2.6,Mid-trophic species,0.472849809665579,0.464953189588052,0.483059880073864,100,maintenance_age_standardized,maintenance
+SSP5-8.5,Prey,1.83553684413045,1.74427996698765,1.9093527240679,100,maintenance_age_standardized,maintenance
+SSP5-8.5,Predator,0.792022010004467,0.775752501413288,0.809142758521218,100,maintenance_age_standardized,maintenance
+SSP5-8.5,Invertebrate,0.509343176922799,0.460215085240329,0.572178330427366,100,maintenance_age_standardized,maintenance
+SSP5-8.5,Mid-trophic species,0.564655743322313,0.553652189557451,0.575868882108056,100,maintenance_age_standardized,maintenance
+Base,Prey,15.9213058616,15.0790107988611,16.6789041026111,100,enet_age_standardized,net_energy
+Base,Predator,55.6692005740722,53.5760581045636,57.4113092684315,100,enet_age_standardized,net_energy
+Base,Invertebrate,3.52336385620454,3.09228004218444,3.99364932365639,100,enet_age_standardized,net_energy
+Base,Mid-trophic species,44.9798528410525,43.9597209893367,46.0546188930419,100,enet_age_standardized,net_energy
+SSP1-2.6,Prey,17.2030407130823,16.7396013948148,17.8413011369548,100,enet_age_standardized,net_energy
+SSP1-2.6,Predator,57.9102419653217,56.7142562649567,58.888563605167,100,enet_age_standardized,net_energy
+SSP1-2.6,Invertebrate,3.84433492678984,3.60258162175741,4.14023503738745,100,enet_age_standardized,net_energy
+SSP1-2.6,Mid-trophic species,48.9736916955592,48.1382547476691,49.6804105000214,100,enet_age_standardized,net_energy
+SSP5-8.5,Prey,17.948337029414,17.3554656654218,18.6387540901646,100,enet_age_standardized,net_energy
+SSP5-8.5,Predator,59.6376859573809,58.7513616294084,60.7811065231676,100,enet_age_standardized,net_energy
+SSP5-8.5,Invertebrate,3.90017084915953,3.67072693524938,4.18240223410237,100,enet_age_standardized,net_energy
+SSP5-8.5,Mid-trophic species,50.6499429184274,49.8220382266167,51.6130367520913,100,enet_age_standardized,net_energy
+Base,Prey,0.0439045850484223,0.0404421024583078,0.0476440156345247,100,mbi_age_standardized,metabolic_burden
+Base,Predator,0.0374465637465837,0.0355131273460502,0.0399574648226101,100,mbi_age_standardized,metabolic_burden
+Base,Invertebrate,0.0189373202974588,0.0141716277949109,0.0236819468546704,100,mbi_age_standardized,metabolic_burden
+Base,Mid-trophic species,0.0292105237765152,0.0280740211591592,0.0305818866742958,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,Prey,0.0530989078281196,0.0501527587246034,0.0565798856089054,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,Predator,0.0471514452209867,0.0451664513266849,0.0489148851626344,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,Invertebrate,0.0338960392500807,0.0296369854833327,0.0385877901568305,100,mbi_age_standardized,metabolic_burden
+SSP1-2.6,Mid-trophic species,0.0332497188676518,0.0322119428474121,0.0343124374619814,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,Prey,0.0630704320589536,0.0589479313867893,0.0666840705704368,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,Predator,0.0522645786816056,0.0504196748218646,0.0542410319294485,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,Invertebrate,0.039936519240856,0.0338636526510236,0.0464279528525109,100,mbi_age_standardized,metabolic_burden
+SSP5-8.5,Mid-trophic species,0.04001731006218,0.0387321592280914,0.0411191116081243,100,mbi_age_standardized,metabolic_burden

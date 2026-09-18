@@ -1,0 +1,26 @@
+variable,component,contribution_percent,label
+log_total_biomass,PC1,23.1504196748199,Total biomass
+log_biomass_stability,PC1,4.73083955891655,Biomass stability
+community_mean_tl,PC1,30.6240079437819,Mean trophic level
+predator_share_logit,PC1,9.39756498829451,Predator biomass proportion
+log_biomass_yield_ratio,PC1,32.0971678341871,Biomass/yield
+log_total_biomass,PC2,11.8673243226938,Total biomass
+log_biomass_stability,PC2,64.1779371531748,Biomass stability
+community_mean_tl,PC2,0.124540643709816,Mean trophic level
+predator_share_logit,PC2,19.116744779289,Predator biomass proportion
+log_biomass_yield_ratio,PC2,4.71345310113261,Biomass/yield
+log_total_biomass,PC3,3.59693167021001,Total biomass
+log_biomass_stability,PC3,30.345773836605,Biomass stability
+community_mean_tl,PC3,0.952934307205665,Mean trophic level
+predator_share_logit,PC3,62.8056809377865,Predator biomass proportion
+log_biomass_yield_ratio,PC3,2.2986792481928,Biomass/yield
+log_total_biomass,PC4,54.2780714364043,Total biomass
+log_biomass_stability,PC4,0.717929546532011,Biomass stability
+community_mean_tl,PC4,32.4321130881932,Mean trophic level
+predator_share_logit,PC4,6.71003380881923,Predator biomass proportion
+log_biomass_yield_ratio,PC4,5.86185212005128,Biomass/yield
+log_total_biomass,PC5,7.10725289587205,Total biomass
+log_biomass_stability,PC5,0.0275199047715574,Biomass stability
+community_mean_tl,PC5,35.8664040171094,Mean trophic level
+predator_share_logit,PC5,1.96997548581078,Predator biomass proportion
+log_biomass_yield_ratio,PC5,55.0288476964362,Biomass/yield
