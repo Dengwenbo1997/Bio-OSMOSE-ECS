@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>T_nz=1_1</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">23.996996143477</MDI>
+      <MDI key="STATISTICS_MEAN">-9999</MDI>
+      <MDI key="STATISTICS_MINIMUM">3.5483807504314</MDI>
+      <MDI key="STATISTICS_STDDEV">-9999</MDI>
+      <MDI key="UNIT">Celsius</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
