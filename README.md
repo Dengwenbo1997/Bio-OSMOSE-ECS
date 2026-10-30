@@ -4,6 +4,9 @@ Raw simulation outputs from the Bio-OSMOSE-ECS model, including historical basel
 ## Directory structure
 
 ```text
+data/
+  OCCM_yield_data/
+  catch_data/
 osmose_run/
   Base/
   SSP1-2.6/
@@ -12,5 +15,7 @@ osmose_run/
 ```
 
 The historical scenario, future scenarios and model calibration files are grouped under `osmose_run`. Their internal directory structures are unchanged.
+
+The catch data and OCCM yield data are grouped under `data`, preserving their original subdirectory structures and file contents.
 
 The root-level `ecs_osmose_run.R` uses the historical scenario configuration in `osmose_run/Base/master`.

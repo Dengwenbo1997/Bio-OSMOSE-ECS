@@ -1,0 +1,15 @@
+stock	M
+Engraulis	0.56
+Scomber	0.63
+Scomberomorus	0.5425
+Decapterus	0.49
+Trichiurus	0.38
+Pennahia	0.74
+Pampus	0.586
+Larimichthys	0.58
+Muraenesox	0.171
+Miichthys	0.5
+Trachurus	0.57
+Todarodes	0.1
+Trachysalambria	1.435
+Portunus	0.025
